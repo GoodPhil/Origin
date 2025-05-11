@@ -1,5 +1,4 @@
-{
-  "abi": [
+[
     {
       "inputs": [
         { "internalType": "address", "name": "_OHM", "type": "address" },
@@ -194,4 +193,3 @@
       "type": "function"
     }
   ]
-}
