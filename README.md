@@ -1,4 +1,7 @@
-https://ethereum-smart-contract-interaction-tool.vercel.app/
+# 오리진디파이 구성원들을 위해 작성된 페이지입니다.
+
+1. 스마트 컨트랙을 실행 시키는 주소는 https://ethereum-smart-contract-interaction-tool.vercel.app
+2. 
 
 # lgns-abi
 
