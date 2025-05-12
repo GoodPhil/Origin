@@ -1,4 +1,6 @@
-# 오리진디파이 한국 유저를 위해 작성된 페이지입니다.
+![Banner 2-edit](https://github.com/user-attachments/assets/2868b8de-c4a6-4eb4-9009-051abe5ab497)
+
+# 오리진디파이 한국 유저를 위해 작성된 메뉴얼입니다.
   (작성 중...)
 
 
