@@ -16,11 +16,11 @@ ORIGIN은 첨단 블록체인 기술을 기반으로 혁신적인 금융 이론�
 
 3. 스마트 컨트랙 도구 창과 디지털 웰렛 연결.
 
-4. 스마트 컨트랙 도구 창의 "Paste ABI JSON here" 에 붙여넣기
+4. 스마트 컨트랙 도구 창의 `Paste ABI JSON here` 에 붙여넣기
 
 5. 스테이킹 주소 복사:
     ```
     0x1964Ca90474b11FFD08af387b110ba6C96251Bfc
     ```
 6. Write Function: unstake
-   ![image](https://github.com/user-attachments/assets/6e08333f-9d5e-4543-8318-71a0bbbc0237)
+    ![Write Function-unstake](https://github.com/user-attachments/assets/9ed9dc95-3a13-4ab4-b31d-b1f9d9c828d5)
