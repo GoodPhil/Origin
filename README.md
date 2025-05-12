@@ -1,25 +1,15 @@
-# 오리진디파이 구성원들을 위해 작성된 페이지입니다.
+# 오리진디파이 구성원들을 위해 작성된 페이지입니다. (수정 중...)
 
 1. 스마트 컨트랙을 실행 시키는 주소 => https://ethereum-smart-contract-interaction-tool.vercel.app
 2. 스테이킹 해제를 위해 코드 복사 주소 => https://github.com/GoodPhil/Origin.ABI/blob/main/abis/OriginStaking.json
    
   <img width="1455" alt="OriginStaking json Copy" src="https://github.com/user-attachments/assets/1e554538-60f7-4678-8efa-ab41db455250" />
 
-# lgns-abi
 
-This repository contains the ABI (Application Binary Interface) for the LGNS smart contract, designed to facilitate easier access for the community and third-party developers.
 
 # Main Contracts Addresses
 ## Staking 
 0x1964Ca90474b11FFD08af387b110ba6C96251Bfc 
 
-## LGNS Token
-0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01 
-
-## Treasury 
-0x7B9B7d4F870A38e92c9a181B00f9b33cc8Ef5321  
-
-## Turbine 
-0x07Ff4e06865de4934409Aa6eCea503b08Cc1C78d 
 
 
