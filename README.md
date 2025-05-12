@@ -9,8 +9,8 @@
 
 2. 스마트 컨트랙을 실행 => [here](https://ethereum-smart-contract-interaction-tool.vercel.app).
 
-  
-4. 스마트 컨트랙 스테이킹 주소 복사 => 0x1964Ca90474b11FFD08af387b110ba6C96251Bfc 
+3. 스마트 컨트랙 도구 창과 디지털 웰렛 연결.
 
-
-
+4. 스마트 컨트랙 도구 창의 "Paste ABI JSON here" 에 붙여넣기
+   
+5. 스마트 컨트랙 도구 창의 스테이킹 주소 복사 => 0x1964Ca90474b11FFD08af387b110ba6C96251Bfc
