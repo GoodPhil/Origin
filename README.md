@@ -1,7 +1,7 @@
 # 오리진디파이 한국 유저를 위해 작성된 페이지입니다.
   (작성 중...)
 
-1. 스마트 컨트랙을 실행 => [here](https://ethereum-smart-contract-interaction-tool.vercel.app/).
+1. 스마트 컨트랙을 실행 => [here](a href="https://ethereum-smart-contract-interaction-tool.vercel.app"target="blank"/).
      ## Preview
 
 ### Main Interface
