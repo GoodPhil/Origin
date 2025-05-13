@@ -53,7 +53,8 @@ ORIGIN은 첨단 블록체인 기술을 기반으로 혁신적인 금융 이론�
 
 7. Write Function: unstake
 
-![006](https://github.com/user-attachments/assets/a30ea32d-3ee0-4ce8-90d7-a7b862ee6222)
+![006](https://github.com/user-attachments/assets/dbe494d7-acda-4935-8141-999ea529d0e1)
+
 
 
 #
