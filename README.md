@@ -4,7 +4,7 @@ ORIGIN은 첨단 블록체인 기술을 기반으로 혁신적인 금융 이론�
 
 
 # 오리진디파이 한국 유저를 위해 작성된 메뉴얼입니다.
-  (작성 중...)
+
 
 
 1. 스테이킹 해제를 위해 코드 복사: [here](https://github.com/GoodPhil/Origin.ABI/blob/main/OriginStaking.json).
