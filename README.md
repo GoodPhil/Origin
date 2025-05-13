@@ -30,7 +30,8 @@ ORIGIN은 첨단 블록체인 기술을 기반으로 혁신적인 금융 이론�
 
 4. 스마트 컨트랙 도구 창의 `Paste ABI JSON here` 에 붙여넣기
 
-![004](https://github.com/user-attachments/assets/6aba2c39-3048-46df-9653-ac3ad2efdc19)
+![004](https://github.com/user-attachments/assets/137aec52-296c-486d-a884-4003b09f7f8c)
+
 
 
 #
@@ -52,3 +53,11 @@ ORIGIN은 첨단 블록체인 기술을 기반으로 혁신적인 금융 이론�
 
 7. Write Function: unstake
 
+![006](https://github.com/user-attachments/assets/a30ea32d-3ee0-4ce8-90d7-a7b862ee6222)
+
+
+#
+
+8. unstake 수량 입력.
+
+![007](https://github.com/user-attachments/assets/5f44b071-9f58-425c-a993-a0695af6148c)
