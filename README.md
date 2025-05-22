@@ -3,10 +3,16 @@
 
 ## Origin 한국 유저를 위해 작성된 메뉴얼입니다.
 ###### DApp 에 접근 불가상황에 아래의 순서대로 따라하시면 언스테이킹이 가능합니다. 언스테이킹 권한 설정이 된 경우에 정상 작동합니다.
+#
 
 
+### 1. 스마트 컨트랙 도구 실행: [here](https://ethereum-smart-contract-interaction-tool.vercel.app).
 
-### 1. 언스테이킹 실행을 위해 아래 코드창 오른쪽 버튼 <img width="38" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사!!!
+![003](https://github.com/user-attachments/assets/ae01c495-e894-4027-b698-aa66ca5109b4)
+
+#
+
+### 2. 언스테이킹 실행을 위해 아래 코드창 오른쪽 버튼 <img width="38" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사!!!
 
 
 
@@ -209,11 +215,6 @@
   ]
 ```
 
-
-
-### 2. 스마트 컨트랙 도구 실행: [here](https://ethereum-smart-contract-interaction-tool.vercel.app).
-
-![003](https://github.com/user-attachments/assets/ae01c495-e894-4027-b698-aa66ca5109b4)
 
 
 #
