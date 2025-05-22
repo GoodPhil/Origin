@@ -6,7 +6,7 @@
 
 
 
-### 1. 언스테이킹 실행을 위해 아래 코드창 오른쪽 버튼 <img width="45" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사!!!
+### 1. 언스테이킹 실행을 위해 아래 코드창 오른쪽 버튼 <img width="38" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사!!!
 
 
 
