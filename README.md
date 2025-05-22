@@ -6,7 +6,7 @@
 
 
 
-### 1. 스테이킹 해제를 위해 아래 코드창에서 <img width="50" alt="OriginStaking json Copy" src="https://github.com/user-attachments/assets/37b8d73b-fffe-44bc-b35a-af340cd64966"/> 와 같은 아이콘 클릭하여 복사!!!
+### 1. 언스테이킹 실행을 위해 아래 코드창에서 <img width="50" alt="OriginStaking json Copy" src="https://github.com/user-attachments/assets/37b8d73b-fffe-44bc-b35a-af340cd64966"/> 와 같은 아이콘 클릭하여 복사!!!
 
 
 
