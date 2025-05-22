@@ -4,19 +4,7 @@
 ## Origin 한국 유저를 위해 작성된 메뉴얼입니다.
 ###### DApp 에 접근 불가상황에 아래의 순서대로 따라하시면 언스테이킹이 가능합니다. 언스테이킹 권한 설정이 된 경우에 정상 작동합니다.
 #
-
-
-### 1. 스마트 컨트랙 도구 실행: [here](https://ethereum-smart-contract-interaction-tool.vercel.app).
-
-![003](https://github.com/user-attachments/assets/ae01c495-e894-4027-b698-aa66ca5109b4)
-
-#
-
-### 2. 언스테이킹 실행을 위해 아래 코드창 오른쪽 버튼 <img width="38" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사!!!
-
-
-
-
+### 1. 언스테이킹 실행을 위해 아래 코드창 오른쪽 버튼 <img width="38" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사!!!
 ```
 [
     {
@@ -214,58 +202,33 @@
     }
   ]
 ```
-
-
-
+### 2. 스마트 컨트랙 도구 실행: [here](https://ethereum-smart-contract-interaction-tool.vercel.app).
 #
-
 ### 3. 스마트 컨트랙 도구 창과 사용자 본인의 디지털 웰렛 연결.
-
-![002](https://github.com/user-attachments/assets/cbe334c5-7b48-460d-bf19-95676e94b9c3)
-
-
+![smart-contract_002](https://github.com/user-attachments/assets/1f35958e-717b-4d12-aeda-96f0e06e7021)
 #
-
-### 4. 스마트 컨트랙 도구 창의 `Paste ABI JSON here` 에 붙여넣기
-
-![004](https://github.com/user-attachments/assets/137aec52-296c-486d-a884-4003b09f7f8c)
-
-
-
+### 4. 스마트 컨트랙 도구 창의 "Paste ABI JSON here" 에 붙여넣기
+![smart-contract_003](https://github.com/user-attachments/assets/f091376b-7438-49a4-96c3-bb1a79696b5b)
 #
-
 ### 5. 스테이킹 주소 복사:
 ```
 0x1964Ca90474b11FFD08af387b110ba6C96251Bfc
 ```
-
-
 #
-
-### 6. 스마트 컨트랙 도구 창의 `Contract Address` 에 붙여넣기
-
-![005](https://github.com/user-attachments/assets/23dac6de-520f-46d4-938e-bf899db034d1)
-
-
+### 6. 스마트 컨트랙 도구 창의 "Contract Address" 에 붙여넣기.
+![smart-contract_005](https://github.com/user-attachments/assets/787f9549-f2e2-4132-ba54-558b52511d0d)
 #
-
-### 7. Write Function: unstake
-
-![006](https://github.com/user-attachments/assets/dbe494d7-acda-4935-8141-999ea529d0e1)
-
-
-
+### 7. 화면 하단에 "Write Function: unstake" 메뉴 찾기.
+![smart-contract_006](https://github.com/user-attachments/assets/18472457-c192-4905-b0fc-a9a5b52260d7)
 #
-
 ### 8. unstake 수량 입력.
+![smart-contract_007](https://github.com/user-attachments/assets/713898b2-c1c2-4a42-a2c5-b7193f9aa3e3)
+#
+### 9. CALL UNSTAKE 실행.
+![smart-contract_008](https://github.com/user-attachments/assets/1938688a-59c7-477d-b797-3a57477d2501)
 
-![007](https://github.com/user-attachments/assets/5f44b071-9f58-425c-a993-a0695af6148c)
-
-
-@ LGNS 수량 입력 예
+@ LGNS 수량 입력 예 (0의 숫자가 줄어듬 0.1 은 0 이 8개 <- 1개는 0의 수 9개 -> 증가시 0은 항상 9개)
 
 | 0.1     | 1 | 12 | 123                       | 1,234                                               |
 |----------|----------|------------|------------------------------|------------------------------------------------------------|
 | 100000000 | 1000000000    | 12000000000      | 123000000000  | 1234000000000               |
-
- 1개 부터는 0 을 9개 입력.
