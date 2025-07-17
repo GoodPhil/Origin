@@ -4,7 +4,7 @@
 ## Origin 한국 유저를 위해 작성된 메뉴얼입니다.
 ###### DApp 에 접근 불가상황에 아래의 순서대로 따라하시면 언스테이킹이 가능합니다. Dapp 에서 언스테이킹 권한 설정이 된 경우에 정상 작동합니다.
 #
-###### TokenPocket, MetaMask 등 지갑앱 메뉴의 DApps 항목의 브라우저 기능을 활용하시는걸 추천합니다.
+###### TokenPocket, MetaMask 등 지갑 앱 메뉴 중 DApps 항목의 브라우저 기능을 활용하시는걸 추천합니다.
 #
 ### 1. 언스테이킹 실행을 위해 아래 코드창 오른쪽 버튼 <img width="38" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사한 후 아래로 스크롤을 내려서 2번 항목으로.
 #
