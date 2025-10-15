@@ -11,14 +11,13 @@
 <p class="p2"><span class="s6">Origin Official X Account : <a href="https://x.com/SaluteOrigin"><span class="s7">x.com/SaluteOrigin</span></a></span></p>
 <p class="p2"><span class="s8">- 2023년 10월 30일 : <a href="https://x.com/SaluteOrigin/status/1718888173244453181"><span class="s3">오리진 출시를 준비하세요!</span></a></span></p>
 <p class="p2"><span class="s8">- 2023년 11월 16일 : <a href="https://x.com/SaluteOrigin/status/1724922219682242967"><span class="s3">오리진은 LGNS 토큰을 기반으로 하는 DeFi 프라이버시 금융 3.0 업그레이드 프로토콜입니다…</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 11월 20일 : <a href="https://x.com/SaluteOrigin/status/1726316443355304088"><span class="s3">오리진(Origin)은 오리진 리스크 계약 경제학의 이론적 기반과 혁신적인 통제 시스템을 기반으로 더욱 완벽한 운영 논리 구조를 갖추고 있습니다…</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 11월 28일 : <a href="https://x.com/SaluteOrigin/status/1729505194268872716"><span class="s3">경제 플라이휠 모델은 시장의 통제 불능 균형을 맞추거나 조정하기 위해 수요와 공급 관계를 자동으로 조정하도록 설계되었습니다…</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 12월 06일 : <a href="https://x.com/SaluteOrigin/status/1732117082962264266"><span class="s3">플로우 진입 단계에서는 채권 판매 전략을 통해 알고리즘 기반 비안정화폐 LGNS가 성공적으로 발행되었습니다…</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 12월 18일 : <a href="https://x.com/SaluteOrigin/status/1736676123986301263"><span class="s3">다크웹 ORIGIN의 최신 발표에 따르면  🪧🪧🪧 "성전선교단 모집" 계획이 전 세계적으로 시작되며, 21개국과 지역을 시작으로 합니다…</span></a></span></p>
-<p class="p2"><span class="s8">- 2024년 02월 23일 : <a href="https://x.com/SaluteOrigin/status/1760955559581474907"><span class="s3">ORIGIN DeFi 3.0 프로토콜이 기술 배포 및 계약 검토를 완료하여 Polygon 네트워크에서 곧 출시될 예정이라고 다크웹을 통해 공식 발표했습니다…</span></a></span></p>
-<p class="p2"><span class="s8">- 2024년 03월 05일 : <a href="https://x.com/SaluteOrigin/status/1764958425757458591"><span class="s3">전 세계적으로 동시적으로 출시하며, 동시에 전 세계 여러 지역에서 사전 출시 시간을 발표합니다.
-공식 홈페이지 URL : https://originworld.org…</span></a></span></p>
-<p class="p2"><span class="s8">- 2024년 03월 21일 : <a href="https://x.com/SaluteOrigin/status/1770771929172935011"><span class="s3">ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget Wallet의 첫 프로젝트 중 하나로 선정되었습니다…</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 11월 20일 : <a href="https://x.com/SaluteOrigin/status/1726316443355304088"><span class="s3">오리진(Origin)은 오리진 리스크 계약 경제학의 이론적 기반과 혁신적인 통제 시스템을 기반으로…</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 11월 28일 : <a href="https://x.com/SaluteOrigin/status/1729505194268872716"><span class="s3">경제 플라이휠 모델은 시장의 통제 불능 균형을 맞추거나 조정하기 위해 수요와 공급 관계를…</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 12월 06일 : <a href="https://x.com/SaluteOrigin/status/1732117082962264266"><span class="s3">플로우 진입 단계에서는 채권 판매 전략을 통해 알고리즘 기반 비안정화폐 LGNS가 성공적으로…</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 12월 18일 : <a href="https://x.com/SaluteOrigin/status/1736676123986301263"><span class="s3">다크웹 ORIGIN의 최신 발표에 따르면 "성전선교단 모집" 계획이 전 세계적으로 시작되며, 21개국과…</span></a></span></p>
+<p class="p2"><span class="s8">- 2024년 02월 23일 : <a href="https://x.com/SaluteOrigin/status/1760955559581474907"><span class="s3">ORIGIN DeFi 3.0 프로토콜이 기술 배포 및 계약 검토를 완료하여 Polygon 네트워크에서 곧 출시될…</span></a></span></p>
+<p class="p2"><span class="s8">- 2024년 03월 05일 : <a href="https://x.com/SaluteOrigin/status/1764958425757458591"><span class="s3">전 세계적으로 동시적으로 출시하며, 동시에 전 세계 여러 지역에서 사전 출시 시간을 발표합니다.…</span></a></span></p>
+<p class="p2"><span class="s8">- 2024년 03월 21일 : <a href="https://x.com/SaluteOrigin/status/1770771929172935011"><span class="s3">ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget Wallet의 첫 프로젝트 중…</span></a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
 <p class="p5"><span class="s1"><b>Telegram</b><b></b></span></p>
 <p class="p2"><span class="s9"><a href="https://t.me/+i7ysEedPAuVmZjJl">Awake Korea Communityt</a></span></p>
