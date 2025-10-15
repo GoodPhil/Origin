@@ -6,9 +6,9 @@
   <p class="p2"><span class="s2">공식 홈 2: <a href="https://originworld.org/"target="_blank"><span class="s3">Home | ORIGIN Protocol 2</span></a></span></p>
 
 
-<a href="https://originworld.org" target="_blank" rel="noopener noreferrer">공식 홈 2</a>
+<a href="https://originworld.org" target="_blank" rel="noopener noreferrer"><span class="s3">Home | ORIGIN Protocol 5</span></a></span></p>
 <a href="https://originworld.org" target="_blank" rel="noopener noreferrer">여기를 클릭하세요</a>
-<a href="https://originworld.org" target="_blank">여기를 클릭하세요2</a>
+<a href="https://originworld.org" target="_blank"><span class="s3">Home | ORIGIN Protocol 6</span></a></span></p>
 
 
 <p class="p2"><span class="s2">미디엄 : <a href="https://originworld.medium.com/"><span class="s3">OriginWorld – </span><span class="s4">미디엄</span></a></span></p>
