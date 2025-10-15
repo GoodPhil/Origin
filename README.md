@@ -1,15 +1,8 @@
 <head>
 <body>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Origin Bookmarks</b><b></b></span></h1>
-<p class="p2"><span class="s2">공식 홈 : <a href="https://originworld.org/"><span class="s3">Home | ORIGIN Protocol</span></a></span></p>
-
-  <p class="p2"><span class="s2">공식 홈 2: <a href="https://originworld.org/"target="_blank"><span class="s3">Home | ORIGIN Protocol 2</span></a></span></p>
-
-
-<a href="https://originworld.org" target="_blank" rel="noopener noreferrer"><span class="s3">Home | ORIGIN Protocol 5</span></a></span></p>
-<a href="https://originworld.org" target="_blank" rel="noopener noreferrer">여기를 클릭하세요</a>
-<a href="https://originworld.org" target="_blank"><span class="s3">Home | ORIGIN Protocol 6</span></a></span></p>
-
+  
+<p class="p2"><span class="s2">오리진 공식 홈 : <a href="https://originworld.org/"><span class="s3">Home | ORIGIN Protocol</span></a></span></p>
 
 <p class="p2"><span class="s2">미디엄 : <a href="https://originworld.medium.com/"><span class="s3">OriginWorld – </span><span class="s4">미디엄</span></a></span></p>
 <p class="p3"><span class="s2">스토리백서 : <a href="https://origin-3.gitbook.io/origin-fearless-contract"><span class="s5">Origin Fearless Contract</span></a></span></p>
