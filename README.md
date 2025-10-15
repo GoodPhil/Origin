@@ -1,33 +1,32 @@
-<head>
-<body>
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Origin Bookmarks</b><b></b></span></h1>
-  
-<p class="p2"><span class="s2">오리진 공식 홈 : <a href="https://originworld.org/"><span class="s3">Home | ORIGIN Protocol</span></a></span></p>
-
-<p class="p2"><span class="s2">미디엄 : <a href="https://originworld.medium.com/"><span class="s3">OriginWorld – </span><span class="s4">미디엄</span></a></span></p>
-<p class="p3"><span class="s2">스토리백서 : <a href="https://origin-3.gitbook.io/origin-fearless-contract"><span class="s5">Origin Fearless Contract</span></a></span></p>
-<p class="p3"><span class="s2">경제 백서 : <a href="https://origin-3.gitbook.io/origin-eternal-protocol"><span class="s5">ORIGIN Eternal Protocol</span></a></span></p>
-<p class="p3"><span class="s2">기술 백서 : <a href="https://origin-5.gitbook.io/anubis-free-reels"><span class="s5">Anubis Free Reels</span></a></span></p>
+</head>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><strong>Origin Bookmarks </strong>(2025.10.15 Updating...)<strong></strong></span></h1>
+<p class="p2">&nbsp;</p>
+<p class="p2"><span class="s2">1. Origin Official Home : <a href="https://originworld.org/"><span class="s3">https://originworld.org</span></a></span></p>
+<p class="p2"><span class="s2">2. Medium : <a href="https://originworld.medium.com/"><span class="s3">originworld.medium.com</span></a></span></p>
+<p class="p3"><span class="s2">3. Story White Paper : <a href="https://origin-3.gitbook.io/origin-fearless-contract"><span class="s5">origin-3.gitbook.io/origin-fearless-contract</span></a></span></p>
+<p class="p3"><span class="s2">4. Economic White Paper : <a href="https://origin-3.gitbook.io/origin-eternal-protocol"><span class="s5">origin-3.gitbook.io/origin-eternal-protocol</span></a></span></p>
+<p class="p3"><span class="s2">5. Technical White Paper : <a href="https://origin-5.gitbook.io/anubis-free-reels"><span class="s5">origin-5.gitbook.io/anubis-free-reels</span></a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>X</b><b></b></span></h3>
-<p class="p2"><span class="s6">공식 X : <a href="https://x.com/SaluteOrigin"><span class="s7">ORIGIN(@SaluteOrigin) / X</span></a></span></p>
-<p class="p2"><span class="s8">2023년 10월 30일 : <a href="https://x.com/SaluteOrigin/status/1718888173244453181"><span class="s3">X</span><span class="s4">에서</span><span class="s3"> ORIGIN </span><span class="s4">님</span><span class="s3"> : Get ready for the launch…</span></a></span></p>
-<p class="p2"><span class="s8">2023년 11월 16일 : <a href="https://x.com/SaluteOrigin/status/1724922219682242967"><span class="s3">X</span><span class="s4">에서</span><span class="s3"> ORIGIN </span><span class="s4">님</span><span class="s3"> : Origin is a DeFi privacy…</span></a></span></p>
-<p class="p2"><span class="s8">2023년 11월 20일 : <a href="https://x.com/SaluteOrigin/status/1726316443355304088"><span class="s3">X</span><span class="s4">에서</span><span class="s3"> ORIGIN </span><span class="s4">님</span><span class="s3"> : Based on the theoretical…</span></a></span></p>
-<p class="p2"><span class="s8">2023년 11월 28일 : <a href="https://x.com/SaluteOrigin/status/1729505194268872716"><span class="s3">X</span><span class="s4">에서</span><span class="s3"> ORIGIN </span><span class="s4">님</span><span class="s3"> : Origin from the innovation…</span></a></span></p>
-<p class="p2"><span class="s8">2023년 12월 06일 : <a href="https://x.com/SaluteOrigin/status/1732117082962264266"><span class="s3">X</span><span class="s4">에서</span><span class="s3"> ORIGIN </span><span class="s4">님</span><span class="s3"> : In the flow entry stage…</span></a></span></p>
-<p class="p2"><span class="s8">2023년 12월 18일 : <a href="https://x.com/SaluteOrigin/status/1736676123986301263"><span class="s3">X</span><span class="s4">에서</span><span class="s3"> ORIGIN </span><span class="s4">님</span><span class="s3"> : According to the latest…</span></a></span></p>
-<p class="p2"><span class="s8">2024년 02월 23일 : <a href="https://x.com/SaluteOrigin/status/1760955559581474907"><span class="s3">X</span><span class="s4">에서</span><span class="s3"> ORIGIN </span><span class="s4">님</span><span class="s3"> : The ORIGIN Elder Fund…</span></a></span></p>
-<p class="p2"><span class="s8">2024년 03월 05일 : <a href="https://x.com/SaluteOrigin/status/1764958425757458591"><span class="s3">X</span><span class="s4">에서</span><span class="s3"> ORIGIN </span><span class="s4">님</span><span class="s3"> : ORIGIN, It's TIME…</span></a></span></p>
-<p class="p2"><span class="s8">2024년 03월 21일 : <a href="https://x.com/SaluteOrigin/status/1770771929172935011"><span class="s3">X</span><span class="s4">에서</span><span class="s3"> ORIGIN </span><span class="s4">님</span><span class="s3"> : ORIGIN is in ongoing…</span></a></span></p>
+<p class="p2"><span class="s6">Origin Official X Account : <a href="https://x.com/SaluteOrigin"><span class="s7">x.com/SaluteOrigin</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 10월 30일 : <a href="https://x.com/SaluteOrigin/status/1718888173244453181"><span class="s3">오리진 출시를 준비하세요!</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 11월 16일 : <a href="https://x.com/SaluteOrigin/status/1724922219682242967"><span class="s3">오리진은 LGNS 토큰을 기반으로 하는 DeFi 프라이버시 금융 3.0 업그레이드 프로토콜입니다…</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 11월 20일 : <a href="https://x.com/SaluteOrigin/status/1726316443355304088"><span class="s3">오리진(Origin)은 오리진 리스크 계약 경제학의 이론적 기반과 혁신적인 통제 시스템을 기반으로 더욱 완벽한 운영 논리 구조를 갖추고 있습니다…</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 11월 28일 : <a href="https://x.com/SaluteOrigin/status/1729505194268872716"><span class="s3">경제 플라이휠 모델은 시장의 통제 불능 균형을 맞추거나 조정하기 위해 수요와 공급 관계를 자동으로 조정하도록 설계되었습니다…</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 12월 06일 : <a href="https://x.com/SaluteOrigin/status/1732117082962264266"><span class="s3">플로우 진입 단계에서는 채권 판매 전략을 통해 알고리즘 기반 비안정화폐 LGNS가 성공적으로 발행되었습니다…</span></a></span></p>
+<p class="p2"><span class="s8">- 2023년 12월 18일 : <a href="https://x.com/SaluteOrigin/status/1736676123986301263"><span class="s3">다크웹 ORIGIN의 최신 발표에 따르면  🪧🪧🪧 "성전선교단 모집" 계획이 전 세계적으로 시작되며, 21개국과 지역을 시작으로 합니다…</span></a></span></p>
+<p class="p2"><span class="s8">- 2024년 02월 23일 : <a href="https://x.com/SaluteOrigin/status/1760955559581474907"><span class="s3">ORIGIN DeFi 3.0 프로토콜이 기술 배포 및 계약 검토를 완료하여 Polygon 네트워크에서 곧 출시될 예정이라고 다크웹을 통해 공식 발표했습니다…</span></a></span></p>
+<p class="p2"><span class="s8">- 2024년 03월 05일 : <a href="https://x.com/SaluteOrigin/status/1764958425757458591"><span class="s3">전 세계적으로 동시적으로 출시하며, 동시에 전 세계 여러 지역에서 사전 출시 시간을 발표합니다.
+공식 홈페이지 URL : https://originworld.org…</span></a></span></p>
+<p class="p2"><span class="s8">- 2024년 03월 21일 : <a href="https://x.com/SaluteOrigin/status/1770771929172935011"><span class="s3">ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget Wallet의 첫 프로젝트 중 하나로 선정되었습니다…</span></a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
-<p class="p5"><span class="s1"><b>SNS</b><b></b></span></p>
-<p class="p2"><span class="s9"><a href="https://web.telegram.org/a/#-1001916328810">OriginWorld—Chat</a></span></p>
+<p class="p5"><span class="s1"><b>Telegram</b><b></b></span></p>
+<p class="p2"><span class="s9"><a href="https://t.me/+i7ysEedPAuVmZjJl">Awake Korea Communityt</a></span></p>
 <p class="p6"><span class="s9"></span><br></p>
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Defi</b><b></b></span></h3>
-<p class="p2"><span class="s9"><a href="https://www.geckoterminal.com/ko/polygon_pos/pools">GeckoTerminal</a> - <a href="https://www.geckoterminal.com/ko/polygon_pos/pools"><span class="s10">오늘</span> <span class="s10">가장</span> <span class="s10">인기</span> <span class="s10">있는</span> <span class="s10">상위</span> Polygon POS <span class="s10">풀</span></a></span></p>
-<p class="p2"><span class="s9"><a href="https://de.fi/scanner">Free Smart Contract Audit: DeFi Score Solidity Scanner Tool</a></span></p>
+<p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀</span></a></span></p>
+<p class="p2"><span class="s9">De.fi : <a href="https://de.fi/scanner">Free Smart Contract Audit: DeFi Score Solidity Scanner Tool</a></span></p>
 <p class="p2"><span class="s9"><a href="https://zapper.xyz/?trendingType=trending">Zapper - See what's happening onchain.</a></span></p>
 <p class="p2"><span class="s9"><a href="https://ko.rootdata.com/Projects/detail/ORIGIN?k=MTU5NTY%3D">ORIGIN <span class="s10">프로젝트</span> <span class="s10">소개</span>, <span class="s10">팀</span>, <span class="s10">자금</span> <span class="s10">조달</span> <span class="s10">및</span> <span class="s10">뉴스</span>_RootData</a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
