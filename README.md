@@ -25,9 +25,9 @@
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Defi</b><b></b></span></h3>
 <p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀</span></a></span></p>
-<p class="p2"><span class="s9">De.fi : <a href="https://de.fi/scanner">Free Smart Contract Audit: DeFi Score Solidity Scanner Tool</a></span></p>
-<p class="p2"><span class="s9"><a href="https://zapper.xyz/?trendingType=trending">Zapper - See what's happening onchain.</a></span></p>
-<p class="p2"><span class="s9"><a href="https://ko.rootdata.com/Projects/detail/ORIGIN?k=MTU5NTY%3D">ORIGIN <span class="s10">프로젝트</span> <span class="s10">소개</span>, <span class="s10">팀</span>, <span class="s10">자금</span> <span class="s10">조달</span> <span class="s10">및</span> <span class="s10">뉴스</span>_RootData</a></span></p>
+<p class="p2"><span class="s9">- De.fi : <a href="https://de.fi/scanner">무료 스마트 계약 감사: DeFi 점수 Solidity 스캐너 도구</a></span></p>
+<p class="p2"><span class="s9">- Zapper : <a href="https://zapper.xyz/?trendingType=trending">Zapper - 온체인에서 무슨 일이 일어나고 있는지 확인하세요.</a></span></p>
+<p class="p2"><span class="s9">- RootData : <a href="https://ko.rootdata.com/Projects/detail/ORIGIN?k=MTU5NTY%3D">ORIGIN 프로젝트 소개, 팀, 자금 조달 및 뉴스a</a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Info</b><b></b></span></h3>
 <p class="p2"><span class="s9"><a href="https://dex.coinmarketcap.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/">LGNS Real-time On-chain Polygon DEX Data</a></span></p>
