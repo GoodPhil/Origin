@@ -39,24 +39,20 @@
 <p class="p2"><span class="s9">- RootData : <a href="https://ko.rootdata.com/Projects/detail/ORIGIN?k=MTU5NTY%3D">ORIGIN 프로젝트 소개, 팀, 자금 조달 및 뉴스</a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Info</b><b></b></span></h3>
-<p class="p2"><span class="s9">Coinmarketcap Dex<a href="https://dex.coinmarketcap.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/">LGNS Real-time On-chain Polygon DEX Data</a></span></p>
+<p class="p2"><span class="s9">- Coinmarketcap Dex (코인마켓 캡 덱스) : <a href="https://dex.coinmarketcap.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/">LGNS Real-time On-chain Polygon DEX Data</a></span></p>
 <p class="p2"><span class="s9">- binance square (바이낸스 뉴스 2024.03.16) : <a href="https://www.binance.com/en/square/post/03-16-2024-defi-3-0-origin-5466478430618?ref=527648310&amp;utm_campaign=app_share_link&amp;utm_source=telegram">DeFi 3.0 프로토콜 ORIGIN 공식 출시</span></a></span></p>
-<p class="p2"><span class="s9">- binance square (바이낸스 뉴스 2024.07.11) : <a href="https://www.binance.com/en/square/post/10617615368202">Top 5 tokens traded by 24-hour volume | QuickSwap on Binance Square (QuickSwap 24시간 거래량 기준 상위 5개 토큰</a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.coinbase.com/price/origin-lgns">Origin LGNS (LGNS) Price, Charts, and News | Coinbase: lgns coin price</a></span></p>
-<p class="p2"><span class="s9"><a href="https://web3.okx.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Longinus | Trading &amp; Price Chart on Polygon</a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns">LGNS <span class="s10">가격</span> <span class="s10">차트</span>, <span class="s10">시가총액</span> &amp; <span class="s10">오늘의</span> <span class="s10">뉴스</span> | CoinGecko</a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.geckoterminal.com/polygon_pos/pools/0x882df4b0fb50a229c3b4124eb18c759911485bfb">Longinus Price on Quickswap | GeckoTerminal</a></span></p>
-<p class="p2"><span class="s9"><a href="https://ave.ai/token/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01-polygon?from=Home">Ave - LGNS</a></span></p>
-<p class="p2"><span class="s9"><a href="https://de.fi/scanner/contract/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01?chainId=plg">Is Longinus on Polygon Safe? - Smart Contract Audit</a></span></p>
-<p class="p2"><span class="s9"><a href="https://zapper.xyz/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/LGNS/details?tab=overview">Origin LGNS (LGNS) on Polygon</a></span></p>
-<p class="p2"><span class="s9"><a href="https://coinstats.app/ko/coins/origin-lgns/">Origin LGNS <span class="s10">가격</span> <span class="s10">및</span> <span class="s10">시가총액</span> | <span class="s10">실시간</span> <span class="s10">업데이트</span> <span class="s10">및</span> <span class="s10">과거</span> <span class="s10">데이터</span> | CoinStats</a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.dextools.io/app/en/polygon/pair-explorer/0x882df4b0fb50a229c3b4124eb18c759911485bfb?t=1754966005100">Longinus live chart, forecast | DEXTools</a></span></p>
-<p class="p2"><span class="s9"><a href="https://kr.tradingview.com/symbols/LGNSDAI_882DF4.USD/?asset=base&amp;exchange=QUICKSWAP&amp;timeframe=ALL">LGNSDAI_USD <span class="s10">실시간</span> <span class="s10">가격</span> <span class="s10">및</span> <span class="s10">차트</span> — TradingView</a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.forbes.com/">Forbes</a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.forbes.com/digital-assets/crypto-prices/?page=142&amp;sh=553595112478">Cryptocurrency Prices, Market Cap and Charts | Forbes Digital Assets</a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.forbes.com/digital-assets/assets/origin-lgns-lgns/">Origin LGNS (LGNS) Price Today</a></span></p>
-<p class="p4"><span class="s1"></span><br></p>
-<p class="p6"><span class="s9"></span><br></p>
+<p class="p2"><span class="s9">- binance square (바이낸스 뉴스 2024.07.11) : <a href="https://www.binance.com/en/square/post/10617615368202">QuickSwap 24시간 거래량 기준 상위 5개 토큰</a></span></p>
+<p class="p2"><span class="s9">- coinbase (코인베이스) : <a href="https://www.coinbase.com/price/origin-lgns">Origin LGNS (LGNS) Price, Charts, and News</a></span></p>
+<p class="p2"><span class="s9">- okx (오케이 엑스) : <a href="https://web3.okx.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Longinus Price Chart on Polygon</a></span></p>
+<p class="p2"><span class="s9">- coingecko (코인겐코) : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns">LGNS 가격, 차트, 시가총액, 오늘의 뉴스</a></span></p>
+<p class="p2"><span class="s9">- geckoterminal (겐코터미널) : <a href="https://www.geckoterminal.com/polygon_pos/pools/0x882df4b0fb50a229c3b4124eb18c759911485bfb">Longinus Price on Quickswap</a></span></p>
+<p class="p2"><span class="s9">- AVE : <a href="https://ave.ai/token/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01-polygon?from=Home">Longinus Price Chart</a></span></p>
+<p class="p2"><span class="s9">- zapper : <a href="https://zapper.xyz/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/LGNS/details?tab=overview">Origin LGNS (LGNS) on Polygon</a></span></p>
+<p class="p2"><span class="s9">- coinstats : <a href="https://coinstats.app/ko/coins/origin-lgns/">Origin LGNS 가격 및 시가총액 실시간 업데이트 및 과거 데이터</a></span></p>
+<p class="p2"><span class="s9">- tradingview : <a href="https://kr.tradingview.com/symbols/LGNSDAI_882DF4.USD/?asset=base&amp;exchange=QUICKSWAP&amp;timeframe=ALL">LGNSDAI_USD 실시간 가격 및 차트</a></span></p>
+<p class="p2"><span class="s9">- forbes : <a href="https://www.forbes.com/">Forbes</a></span></p>
+<p class="p2"><span class="s9">- forbes digital-assets :<a href="https://www.forbes.com/digital-assets/crypto-prices/?page=142&amp;sh=553595112478">Cryptocurrency Prices, Market Cap and Charts | Forbes Digital Assets</a></span></p>
+<p class="p2"><span class="s9">- forbes Origin LGNS Price Today : <a href="https://www.forbes.com/digital-assets/assets/origin-lgns-lgns/">Origin LGNS (LGNS) Price Today</a></span></p>
 <p class="p6"><span class="s9"></span><br></p>
 <p class="p8"><span class="s1"><b>Polygonscan</b><b></b></span></p>
 <p class="p9"><span class="s9"><a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">https://polygonscan.com/token/<span class="s11"></span></a></span></p>
