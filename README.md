@@ -45,6 +45,7 @@
 <p class="p2"><span class="s9">- coinbase (코인베이스) : <a href="https://www.coinbase.com/price/origin-lgns">Origin LGNS (LGNS) Price, Charts, and News</a></span></p>
 <p class="p2"><span class="s9">- okx (오케이 엑스) : <a href="https://web3.okx.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Longinus Price Chart on Polygon</a></span></p>
 <p class="p2"><span class="s9">- coingecko (코인겐코) : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns">LGNS 가격, 차트, 시가총액, 오늘의 뉴스</a></span></p>
+<p class="p2"><span class="s9">- coingecko (코인겐코 거래량) : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns/historical_data">LGNS Origin LGNS USD (거래량 기록 데이터)</a></span></p>
 <p class="p2"><span class="s9">- geckoterminal (겐코터미널) : <a href="https://www.geckoterminal.com/polygon_pos/pools/0x882df4b0fb50a229c3b4124eb18c759911485bfb">Longinus Price on Quickswap</a></span></p>
 <p class="p2"><span class="s9">- AVE : <a href="https://ave.ai/token/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01-polygon?from=Home">Longinus Price Chart</a></span></p>
 <p class="p2"><span class="s9">- zapper : <a href="https://zapper.xyz/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/LGNS/details?tab=overview">Origin LGNS (LGNS) on Polygon</a></span></p>
