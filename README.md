@@ -4,7 +4,7 @@
 <p class="p2"><span class="s2">- Origin Official Home (오리진 공식 홈) : <a href="https://originworld.org/"><span class="s3">https://originworld.org</span></a></span></p>
 <p class="p2"><span class="s2">- Origin Dapp (오리진 공식 앱) : <a href="https://originworld.org/"><span class="s3">https://origindefi.io</span></a></span></p>
 <p class="p2"><span class="s2">- Origin Dapp (오리진 공식 앱 - 저당권으로 바로가는 링크) : <a href="https://originworld.org/"><span class="s3">https://origindefi.io/#/stake</span></a></span></p>
-<p class="p2"><span class="s2">- Medium (미디움): <a href="https://originworld.medium.com/"><span class="s3">originworld.medium.com</span></a></span></p>
+<p class="p2"><span class="s2">- Medium (미디움) [2012년에 출시한 온라인 출판 플랫폼]: <a href="https://originworld.medium.com/"><span class="s3">originworld.medium.com</span></a></span></p>
 <p class="p3"><span class="s2">- Story White Paper (스토리 백서) : <a href="https://origin-3.gitbook.io/origin-fearless-contract"><span class="s5">origin-3.gitbook.io/origin-fearless-contract</span></a></span></p>
 <p class="p3"><span class="s2">- Economic White Paper (경제 백서) : <a href="https://origin-3.gitbook.io/origin-eternal-protocol"><span class="s5">origin-3.gitbook.io/origin-eternal-protocol</span></a></span></p>
 <p class="p3"><span class="s2">- Technical White Paper (기술 백서) : <a href="https://origin-5.gitbook.io/anubis-free-reels"><span class="s5">origin-5.gitbook.io/anubis-free-reels</span></a></span></p>
@@ -26,11 +26,10 @@
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Audit</b><b></b></span></h3>
 <p class="p2"><span class="s9">- CertiK (서틱) : <a href="https://skynet.certik.com/ko/projects/origin#code-security">ORIGIN - CertiK (스카이넷 프로젝트 인사이트)</span></a></span></p>
-<p class="p2"><span class="s9">- TokenSecurity (토큰 포켓 Origin 보안 탐지 보고서) : <a href="https://tokensecurity.tptool.pro/?locale=en&amp;utm_source=tokenpocket#/?address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01&amp;ns=ethereum&amp;chain_id=137&amp;blockchain_id=18">보안 감지</a></span></p>
+<p class="p2"><span class="s9">- TokenSecurity (토큰 포켓 Origin 보안 탐지 보고서) : <a href="https://tokensecurity.tptool.pro/?locale=en&amp;utm_source=tokenpocket#/?address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01&amp;ns=ethereum&amp;chain_id=137&amp;blockchain_id=18">TokenSecurity (보안 감지)</a></span></p>
 <p class="p2"><span class="s9">- De.fi : <a href="https://de.fi/scanner/contract/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01?chainId=plg">Polygon의 Longinus는 안전한가요? - 스마트 계약 감사</a></span></p>
-<p class="p2"><span class="s9"><a href="https://gopluslabs.io/token-security/137/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">LGNS <span class="s10">토큰</span> <span class="s10">TokenSecurity</span></a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.cyberscope.io/cyberscan?chainId=137&amp;address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01#security">We miss you already</a></span></p>
-<p class="p2"><span class="s9"><a href="https://check.quillai.network/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Is Origin LGNS Token on Polygon Secure?: Origin LGNS Risk Report</a></span></p>
+<p class="p2"><span class="s9">GOPLUS : <a href="https://gopluslabs.io/token-security/137/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">LGNS <span class="s10">TokenSecurity Detection (토큰 보안 탐지)</span></a></span></p>
+<p class="p2"><span class="s9">cyberscope : <a href="https://www.cyberscope.io/cyberscan?chainId=137&amp;address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01#security">We miss you already</a></span></p>
 <p class="p2"><span class="s9"><a href="https://tokensniffer.com/token/poly/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Token Sniffer</a></span></p>
 <p class="p2"><span class="s9"><a href="https://dapp.webacy.com/dyor/address/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01?chain=pol">DD Analysis for 0xeB51D9...4A0F01 on Polygon</a></span></p>
 <p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀</span></a></span></p>
