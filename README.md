@@ -36,12 +36,12 @@
 <p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀</span></a></span></p>
 <p class="p2"><span class="s9">- De.fi : <a href="https://de.fi/scanner">무료 스마트 계약 감사: DeFi 점수 Solidity 스캐너 도구</a></span></p>
 <p class="p2"><span class="s9">- Zapper : <a href="https://zapper.xyz/?trendingType=trending">Zapper - 온체인에서 무슨 일이 일어나고 있는지 확인하세요.</a></span></p>
-<p class="p2"><span class="s9">- RootData : <a href="https://ko.rootdata.com/Projects/detail/ORIGIN?k=MTU5NTY%3D">ORIGIN 프로젝트 소개, 팀, 자금 조달 및 뉴스a</a></span></p>
+<p class="p2"><span class="s9">- RootData : <a href="https://ko.rootdata.com/Projects/detail/ORIGIN?k=MTU5NTY%3D">ORIGIN 프로젝트 소개, 팀, 자금 조달 및 뉴스</a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Info</b><b></b></span></h3>
-<p class="p2"><span class="s9"><a href="https://dex.coinmarketcap.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/">LGNS Real-time On-chain Polygon DEX Data</a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.binance.com/en/square/post/03-16-2024-defi-3-0-origin-5466478430618?ref=527648310&amp;utm_campaign=app_share_link&amp;utm_source=telegram">D바이낸스 뉴스 - DeFi 3.0 <span class="s10">프로토콜</span> ORIGIN <span class="s10">공식</span> <span class="s10">출시</span></a></span></p>
-<p class="p2"><span class="s9"><a href="https://www.binance.com/en/square/post/10617615368202">Top 5 tokens traded by 24-hour volume | QuickSwap on Binance Square</a></span></p>
+<p class="p2"><span class="s9">Coinmarketcap Dex<a href="https://dex.coinmarketcap.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/">LGNS Real-time On-chain Polygon DEX Data</a></span></p>
+<p class="p2"><span class="s9">- binance square (바이낸스 뉴스 2024.03.16) : <a href="https://www.binance.com/en/square/post/03-16-2024-defi-3-0-origin-5466478430618?ref=527648310&amp;utm_campaign=app_share_link&amp;utm_source=telegram">DeFi 3.0 프로토콜 ORIGIN 공식 출시</span></a></span></p>
+<p class="p2"><span class="s9">- binance square (바이낸스 뉴스 2024.07.11) : <a href="https://www.binance.com/en/square/post/10617615368202">Top 5 tokens traded by 24-hour volume | QuickSwap on Binance Square (QuickSwap 24시간 거래량 기준 상위 5개 토큰</a></span></p>
 <p class="p2"><span class="s9"><a href="https://www.coinbase.com/price/origin-lgns">Origin LGNS (LGNS) Price, Charts, and News | Coinbase: lgns coin price</a></span></p>
 <p class="p2"><span class="s9"><a href="https://web3.okx.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Longinus | Trading &amp; Price Chart on Polygon</a></span></p>
 <p class="p2"><span class="s9"><a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns">LGNS <span class="s10">가격</span> <span class="s10">차트</span>, <span class="s10">시가총액</span> &amp; <span class="s10">오늘의</span> <span class="s10">뉴스</span> | CoinGecko</a></span></p>
