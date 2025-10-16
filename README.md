@@ -1,12 +1,17 @@
 </head>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><strong>Origin Bookmarks </strong>(2025.10.15 Updating...)<strong></strong></span></h1>
 <p class="p2">&nbsp;</p>
-<p class="p2"><span class="s2">- Origin Official Home : <a href="https://originworld.org/"><span class="s3">https://originworld.org</span></a></span></p>
-<p class="p2"><span class="s2">- Medium : <a href="https://originworld.medium.com/"><span class="s3">originworld.medium.com</span></a></span></p>
-<p class="p3"><span class="s2">- Story White Paper : <a href="https://origin-3.gitbook.io/origin-fearless-contract"><span class="s5">origin-3.gitbook.io/origin-fearless-contract</span></a></span></p>
-<p class="p3"><span class="s2">- Economic White Paper : <a href="https://origin-3.gitbook.io/origin-eternal-protocol"><span class="s5">origin-3.gitbook.io/origin-eternal-protocol</span></a></span></p>
-<p class="p3"><span class="s2">- Technical White Paper : <a href="https://origin-5.gitbook.io/anubis-free-reels"><span class="s5">origin-5.gitbook.io/anubis-free-reels</span></a></span></p>
+<p class="p2"><span class="s2">- Origin Official Home (오리진 공식 홈) : <a href="https://originworld.org/"><span class="s3">https://originworld.org</span></a></span></p>
+<p class="p2"><span class="s2">- Origin Dapp (오리진 공식 앱) : <a href="https://originworld.org/"><span class="s3">https://origindefi.io</span></a></span></p>
+<p class="p2"><span class="s2">- Origin Dapp (오리진 공식 앱 - 저당권으로 바로가는 링크) : <a href="https://originworld.org/"><span class="s3">https://origindefi.io/#/stake</span></a></span></p>
+<p class="p2"><span class="s2">- Medium (미디움): <a href="https://originworld.medium.com/"><span class="s3">originworld.medium.com</span></a></span></p>
+<p class="p3"><span class="s2">- Story White Paper (스토리 백서) : <a href="https://origin-3.gitbook.io/origin-fearless-contract"><span class="s5">origin-3.gitbook.io/origin-fearless-contract</span></a></span></p>
+<p class="p3"><span class="s2">- Economic White Paper (경제 백서) : <a href="https://origin-3.gitbook.io/origin-eternal-protocol"><span class="s5">origin-3.gitbook.io/origin-eternal-protocol</span></a></span></p>
+<p class="p3"><span class="s2">- Technical White Paper (기술 백서) : <a href="https://origin-5.gitbook.io/anubis-free-reels"><span class="s5">origin-5.gitbook.io/anubis-free-reels</span></a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1"><b>Telegram</b><b></b></span></p>
+<p class="p2"><span class="s9">오리진 한국 커뮤니티 (11:00 AM 줌 교육(Dapp 사용방법) 중요) : <a href="https://t.me/+i7ysEedPAuVmZjJl">Awake Korea Communityt</a></span></p>
+<p class="p6"><span class="s9"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>X</b><b></b></span></h3>
 <p class="p2"><span class="s6">Origin Official X Account : <a href="https://x.com/SaluteOrigin"><span class="s7">x.com/SaluteOrigin</span></a></span></p>
 <p class="p2"><span class="s8">- 2023년 10월 30일 : <a href="https://x.com/SaluteOrigin/status/1718888173244453181"><span class="s3">오리진 출시를 준비하세요!</span></a></span></p>
@@ -18,16 +23,12 @@
 <p class="p2"><span class="s8">- 2024년 02월 23일 : <a href="https://x.com/SaluteOrigin/status/1760955559581474907"><span class="s3">ORIGIN DeFi 3.0 프로토콜이 기술 배포 및 계약 검토를 완료하여 Polygon 네트워크에서 곧 출시될…</span></a></span></p>
 <p class="p2"><span class="s8">- 2024년 03월 05일 : <a href="https://x.com/SaluteOrigin/status/1764958425757458591"><span class="s3">전 세계적으로 동시적으로 출시하며, 동시에 전 세계 여러 지역에서 사전 출시 시간을 발표합니다.…</span></a></span></p>
 <p class="p2"><span class="s8">- 2024년 03월 21일 : <a href="https://x.com/SaluteOrigin/status/1770771929172935011"><span class="s3">ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget Wallet의 첫 프로젝트 중…</span></a></span></p>
-<p class="p4"><span class="s1"></span><br></p>
-<p class="p5"><span class="s1"><b>Telegram</b><b></b></span></p>
-<p class="p2"><span class="s9">오리진 한국 커뮤니티 (11:00 AM 줌 교육 중요) : <a href="https://t.me/+i7ysEedPAuVmZjJl">Awake Korea Communityt</a></span></p>
-<p class="p6"><span class="s9"></span><br></p>
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Audit</b><b></b></span></h3>
-<p class="p2"><span class="s9">- CertiK : <a href="https://skynet.certik.com/ko/projects/origin#code-security">ORIGIN - CertiK (스카이넷 프로젝트 인사이트)</span></a></span></p>
-<p class="p2"><span class="s9"><a href="https://tokensecurity.tptool.pro/?locale=en&amp;utm_source=tokenpocket#/?address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01&amp;ns=ethereum&amp;chain_id=137&amp;blockchain_id=18">보안 감지</a></span></p>
+<p class="p2"><span class="s9">- CertiK (서틱) : <a href="https://skynet.certik.com/ko/projects/origin#code-security">ORIGIN - CertiK (스카이넷 프로젝트 인사이트)</span></a></span></p>
+<p class="p2"><span class="s9">- TokenSecurity (토큰 포켓 Origin 보안 탐지 보고서) : <a href="https://tokensecurity.tptool.pro/?locale=en&amp;utm_source=tokenpocket#/?address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01&amp;ns=ethereum&amp;chain_id=137&amp;blockchain_id=18">보안 감지</a></span></p>
 <p class="p2"><span class="s9">- De.fi : <a href="https://de.fi/scanner/contract/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01?chainId=plg">Polygon의 Longinus는 안전한가요? - 스마트 계약 감사</a></span></p>
-<p class="p2"><span class="s9"><a href="https://gopluslabs.io/token-security/137/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">LGNS <span class="s10">토큰</span> <span class="s10">보안</span></a></span></p>
+<p class="p2"><span class="s9"><a href="https://gopluslabs.io/token-security/137/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">LGNS <span class="s10">토큰</span> <span class="s10">TokenSecurity</span></a></span></p>
 <p class="p2"><span class="s9"><a href="https://www.cyberscope.io/cyberscan?chainId=137&amp;address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01#security">We miss you already</a></span></p>
 <p class="p2"><span class="s9"><a href="https://check.quillai.network/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Is Origin LGNS Token on Polygon Secure?: Origin LGNS Risk Report</a></span></p>
 <p class="p2"><span class="s9"><a href="https://tokensniffer.com/token/poly/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Token Sniffer</a></span></p>
