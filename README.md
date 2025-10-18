@@ -24,7 +24,14 @@
 <p class="p2"><span class="s8">- 2024년 03월 05일 : <a href="https://x.com/SaluteOrigin/status/1764958425757458591"><span class="s3">전 세계적으로 동시적으로 출시하며, 동시에 전 세계 여러 지역에서 사전 출시 시간을 발표합니다.…</span></a></span></p>
 <p class="p2"><span class="s8">- 2024년 03월 21일 : <a href="https://x.com/SaluteOrigin/status/1770771929172935011"><span class="s3">ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget Wallet의 첫 프로젝트 중…</span></a></span></p>
 <p class="p7"><span class="s1"></span><br></p>
-<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Audit</b><b></b></span></h3>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Scale information</b><b></b></span></h3>
+<p class="p2"><span class="s9">- polygonscan (폴리곤 스캔: LGNS 정보)) : <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">Token Longinus (LGNS) 주조량, 홀더, 점유율 정보</span></a></span></p>
+<p class="p2"><span class="s9">- polygonscan (폴리곤 스캔: LGNS 정보)) : <a href="https://polygonscan.com/tokencheck-tool">Token Longinus (LGNS) 주조량, 홀더, 점유율 정보</span></a></span></p>
+<p class="p2"><span class="s9">- Token Supply Checke (토큰 공급 검사기) : <a href="https://dexscreener.com/polygon">Token Supply Checke (토큰 공급 검사기)</span></a></span></p>
+<p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀</span></a></span></p>
+<p class="p2"><span class="s9">- coingecko (코인겐코 거래량) : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns/historical_data">LGNS Origin LGNS USD (거래량 기록 데이터)</a></span></p>
+<p class="p7"><span class="s1"></span><br></p>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Audit (감사)</b><b></b></span></h3>
 <p class="p2"><span class="s9">- CertiK (서틱) : <a href="https://skynet.certik.com/ko/projects/origin#code-security">ORIGIN - CertiK (스카이넷 프로젝트 인사이트)</span></a></span></p>
 <p class="p2"><span class="s9">- TokenSecurity (토큰 포켓 Origin 보안 탐지 보고서) : <a href="https://tokensecurity.tptool.pro/?locale=en&amp;utm_source=tokenpocket#/?address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01&amp;ns=ethereum&amp;chain_id=137&amp;blockchain_id=18">TokenSecurity (보안 감지)</a></span></p>
 <p class="p2"><span class="s9">- De.fi : <a href="https://de.fi/scanner/contract/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01?chainId=plg">Polygon의 Longinus는 안전한가요? - 스마트 계약 감사</a></span></p>
@@ -33,7 +40,6 @@
 <p class="p2"><span class="s9">- TokenSniffer <a href="https://tokensniffer.com/token/poly/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Token Sniffer</a></span></p>
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>DeFi</b><b></b></span></h3>
-<p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀</span></a></span></p>
 <p class="p2"><span class="s9">- De.fi : <a href="https://de.fi/scanner">무료 스마트 계약 감사: DeFi 점수 Solidity 스캐너 도구</a></span></p>
 <p class="p2"><span class="s9">- Zapper : <a href="https://zapper.xyz/?trendingType=trending">Zapper - 온체인에서 무슨 일이 일어나고 있는지 확인하세요.</a></span></p>
 <p class="p2"><span class="s9">- RootData : <a href="https://ko.rootdata.com/Projects/detail/ORIGIN?k=MTU5NTY%3D">ORIGIN 프로젝트 소개, 팀, 자금 조달 및 뉴스</a></span></p>
@@ -45,7 +51,6 @@
 <p class="p2"><span class="s9">- coinbase (코인베이스) : <a href="https://www.coinbase.com/price/origin-lgns">Origin LGNS (LGNS) Price, Charts, and News</a></span></p>
 <p class="p2"><span class="s9">- okx (오케이 엑스) : <a href="https://web3.okx.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Longinus Price Chart on Polygon</a></span></p>
 <p class="p2"><span class="s9">- coingecko (코인겐코) : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns">LGNS 가격, 차트, 시가총액, 오늘의 뉴스</a></span></p>
-<p class="p2"><span class="s9">- coingecko (코인겐코 거래량) : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns/historical_data">LGNS Origin LGNS USD (거래량 기록 데이터)</a></span></p>
 <p class="p2"><span class="s9">- geckoterminal (겐코터미널) : <a href="https://www.geckoterminal.com/polygon_pos/pools/0x882df4b0fb50a229c3b4124eb18c759911485bfb">Longinus Price on Quickswap</a></span></p>
 <p class="p2"><span class="s9">- AVE : <a href="https://ave.ai/token/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01-polygon?from=Home">Longinus Price Chart</a></span></p>
 <p class="p2"><span class="s9">- zapper : <a href="https://zapper.xyz/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/LGNS/details?tab=overview">Origin LGNS (LGNS) on Polygon</a></span></p>
