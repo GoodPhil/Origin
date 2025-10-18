@@ -1,16 +1,16 @@
 </head>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><strong>Origin Bookmarks </strong>(2025.10.15 Updating...)<strong></strong></span></h1>
 <p class="p2">&nbsp;</p>
-<p class="p2"><span class="s2">- Origin Official Home (오리진 공식 홈) : <a href="https://originworld.org/"><span class="s3">https://originworld.org</span></a></span></p>
-<p class="p2"><span class="s2">- Origin Dapp (오리진 공식 앱) : <a href="https://originworld.org/"><span class="s3">https://origindefi.io</span></a></span></p>
-<p class="p2"><span class="s2">- Origin Dapp (오리진 공식 앱 - 저당권으로 바로가는 링크) : <a href="https://originworld.org/"><span class="s3">https://origindefi.io/#/stake</span></a></span></p>
-<p class="p2"><span class="s2">- Medium (미디움) [2012년에 출시한 온라인 출판 플랫폼]: <a href="https://originworld.medium.com/"><span class="s3">originworld.medium.com</span></a></span></p>
-<p class="p3"><span class="s2">- Story White Paper (스토리 백서) : <a href="https://origin-3.gitbook.io/origin-fearless-contract"><span class="s5">origin-3.gitbook.io/origin-fearless-contract</span></a></span></p>
-<p class="p3"><span class="s2">- Economic White Paper (경제 백서) : <a href="https://origin-3.gitbook.io/origin-eternal-protocol"><span class="s5">origin-3.gitbook.io/origin-eternal-protocol</span></a></span></p>
-<p class="p3"><span class="s2">- Technical White Paper (기술 백서) : <a href="https://origin-5.gitbook.io/anubis-free-reels"><span class="s5">origin-5.gitbook.io/anubis-free-reels</span></a></span></p>
+<p class="p2"><span class="s2">- Origin Official Home : <a href="https://originworld.org/"><span class="s3">오리진 공식 홈</span></a></span></p>
+<p class="p2"><span class="s2">- Origin Dapp : <a href="https://originworld.org/"><span class="s3">오리진 공식 앱</span></a></span></p>
+<p class="p2"><span class="s2">- Origin Dapp : <a href="https://originworld.org/"><span class="s3">오리진 공식 앱 - 저당권으로 바로가는 링크</span></a></span></p>
+<p class="p2"><span class="s2">- Medium : <a href="https://originworld.medium.com/"><span class="s3">미디움 [2012년에 출시한 온라인 출판 플랫폼]</span></a></span></p>
+<p class="p3"><span class="s2">- Story White Paper : <a href="https://origin-3.gitbook.io/origin-fearless-contract"><span class="s5">스토리 백서</span></a></span></p>
+<p class="p3"><span class="s2">- Economic White Paper : <a href="https://origin-3.gitbook.io/origin-eternal-protocol"><span class="s5">경제 백서</span></a></span></p>
+<p class="p3"><span class="s2">- Technical White Paper : <a href="https://origin-5.gitbook.io/anubis-free-reels"><span class="s5">기술 백서</span></a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
 <p class="p5"><span class="s1"><b>Telegram</b><b></b></span></p>
-<p class="p2"><span class="s9">오리진 한국 커뮤니티 (11:00 AM 줌 교육(Dapp 사용방법) 중요) : <a href="https://t.me/+i7ysEedPAuVmZjJl">Awake Korea Communityt</a></span></p>
+<p class="p2"><span class="s9">- Awake Korea Communityt : <a href="https://t.me/+i7ysEedPAuVmZjJl">오리진 한국 커뮤니티 (11:00 AM 줌 교육(Dapp 사용방법) 중요)</a></span></p>
 <p class="p6"><span class="s9"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>X</b><b></b></span></h3>
 <p class="p2"><span class="s6">Origin Official X Account : <a href="https://x.com/SaluteOrigin"><span class="s7">x.com/SaluteOrigin</span></a></span></p>
@@ -25,33 +25,33 @@
 <p class="p2"><span class="s8">- 2024년 03월 21일 : <a href="https://x.com/SaluteOrigin/status/1770771929172935011"><span class="s3">ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget Wallet의 첫 프로젝트 중…</span></a></span></p>
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Scale information</b><b></b></span></h3>
-<p class="p2"><span class="s9">- polygonscan (폴리곤 스캔: LGNS 정보)) : <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">Token Longinus (LGNS) 주조량, 홀더, 점유율 정보</span></a></span></p>
-<p class="p2"><span class="s9">- Token Supply Checke (토큰 공급 검사기) : <a href="https://polygonscan.com/tokencheck-tool">Token Supply Checke (토큰 공급 검사기</span></a></span></p>
-<p class="p2"><span class="s9">- Dexscreener (덱스 스크린) () : <a href="https://dexscreener.com/polygon">)덱스 스크린 폴리곤 체인 토큰 정보</span></a></span></p>
-<p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀</span></a></span></p>
-<p class="p2"><span class="s9">- coingecko (코인겐코 거래량) : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns/historical_data">LGNS Origin LGNS USD (거래량 기록 데이터)</a></span></p>
+<p class="p2"><span class="s9">- polygonscan : <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">폴리곤 스캔: Token Longinus (LGNS) 주조량, 홀더, 점유율 정보</span></a></span></p>
+<p class="p2"><span class="s9">- Token Supply Checke : <a href="https://polygonscan.com/tokencheck-tool">토큰 공급 검사</span></a></span></p>
+<p class="p2"><span class="s9">- Dexscreener : <a href="https://dexscreener.com/polygon">)덱스 스크린 폴리곤 체인 토큰 정보</span></a></span></p>
+<p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀 토큰</span></a></span></p>
+<p class="p2"><span class="s9">- coingecko : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns/historical_data">코인겐코 LGNS Origin LGNS USD (거래량 기록 데이터)</a></span></p>
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Audit (감사)</b><b></b></span></h3>
-<p class="p2"><span class="s9">- CertiK (서틱) : <a href="https://skynet.certik.com/ko/projects/origin#code-security">ORIGIN - CertiK (스카이넷 프로젝트 인사이트)</span></a></span></p>
-<p class="p2"><span class="s9">- TokenSecurity (토큰 포켓 Origin 보안 탐지 보고서) : <a href="https://tokensecurity.tptool.pro/?locale=en&amp;utm_source=tokenpocket#/?address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01&amp;ns=ethereum&amp;chain_id=137&amp;blockchain_id=18">TokenSecurity (보안 감지)</a></span></p>
+<p class="p2"><span class="s9">- CertiK : <a href="https://skynet.certik.com/ko/projects/origin#code-security">서틱 스카이넷 프로젝트 인사이트</span></a></span></p>
+<p class="p2"><span class="s9">- TokenSecurity : <a href="https://tokensecurity.tptool.pro/?locale=en&amp;utm_source=tokenpocket#/?address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01&amp;ns=ethereum&amp;chain_id=137&amp;blockchain_id=18">토큰 포켓 Origin 보안 탐지 보고서</a></span></p>
 <p class="p2"><span class="s9">- De.fi : <a href="https://de.fi/scanner/contract/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01?chainId=plg">Polygon의 Longinus는 안전한가요? - 스마트 계약 감사</a></span></p>
 <p class="p2"><span class="s9">- GOPLUS : <a href="https://gopluslabs.io/token-security/137/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">LGNS <span class="s10">TokenSecurity Detection (토큰 보안 탐지)</span></a></span></p>
 <p class="p2"><span class="s9">- cyberscope : <a href="https://www.cyberscope.io/cyberscan?chainId=137&amp;address=0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01#security">We miss you already</a></span></p>
 <p class="p2"><span class="s9">- TokenSniffer <a href="https://tokensniffer.com/token/poly/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Token Sniffer</a></span></p>
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>DeFi</b><b></b></span></h3>
-<p class="p2"><span class="s9">- De.fi : <a href="https://de.fi/scanner">무료 스마트 계약 감사: DeFi 점수 Solidity 스캐너 도구</a></span></p>
-<p class="p2"><span class="s9">- Zapper : <a href="https://zapper.xyz/?trendingType=trending">Zapper - 온체인에서 무슨 일이 일어나고 있는지 확인하세요.</a></span></p>
+<p class="p2"><span class="s9">- De.fi : <a href="https://de.fi/scanner"> DeFi Solidity 스캐너 도구 : 스마트 계약 감사</a></span></p>
+<p class="p2"><span class="s9">- Zapper : <a href="https://zapper.xyz/?trendingType=trending">온체인에서 무슨 일이 일어나고 있는지 확인하세요.</a></span></p>
 <p class="p2"><span class="s9">- RootData : <a href="https://ko.rootdata.com/Projects/detail/ORIGIN?k=MTU5NTY%3D">ORIGIN 프로젝트 소개, 팀, 자금 조달 및 뉴스</a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Info</b><b></b></span></h3>
-<p class="p2"><span class="s9">- Coinmarketcap Dex (코인마켓 캡 덱스) : <a href="https://dex.coinmarketcap.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/">LGNS Real-time On-chain Polygon DEX Data</a></span></p>
+<p class="p2"><span class="s9">- Coinmarketcap Dex : <a href="https://dex.coinmarketcap.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/">코인마켓 캡 덱스 LGNS Real-time On-chain Polygon DEX Data</a></span></p>
 <p class="p2"><span class="s9">- binance square (바이낸스 뉴스 2024.03.16) : <a href="https://www.binance.com/en/square/post/03-16-2024-defi-3-0-origin-5466478430618?ref=527648310&amp;utm_campaign=app_share_link&amp;utm_source=telegram">DeFi 3.0 프로토콜 ORIGIN 공식 출시</span></a></span></p>
 <p class="p2"><span class="s9">- binance square (바이낸스 뉴스 2024.07.11) : <a href="https://www.binance.com/en/square/post/10617615368202">QuickSwap 24시간 거래량 기준 상위 5개 토큰</a></span></p>
-<p class="p2"><span class="s9">- coinbase (코인베이스) : <a href="https://www.coinbase.com/price/origin-lgns">Origin LGNS (LGNS) Price, Charts, and News</a></span></p>
-<p class="p2"><span class="s9">- okx (오케이 엑스) : <a href="https://web3.okx.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Longinus Price Chart on Polygon</a></span></p>
-<p class="p2"><span class="s9">- coingecko (코인겐코) : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns">LGNS 가격, 차트, 시가총액, 오늘의 뉴스</a></span></p>
-<p class="p2"><span class="s9">- geckoterminal (겐코터미널) : <a href="https://www.geckoterminal.com/polygon_pos/pools/0x882df4b0fb50a229c3b4124eb18c759911485bfb">Longinus Price on Quickswap</a></span></p>
+<p class="p2"><span class="s9">- coinbase : <a href="https://www.coinbase.com/price/origin-lgns">Origin LGNS (LGNS) Price, Charts, and News</a></span></p>
+<p class="p2"><span class="s9">- okx : <a href="https://web3.okx.com/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01">Longinus Price Chart on Polygon</a></span></p>
+<p class="p2"><span class="s9">- coingecko : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns">LGNS 가격, 차트, 시가총액, 오늘의 뉴스</a></span></p>
+<p class="p2"><span class="s9">- geckoterminal : <a href="https://www.geckoterminal.com/polygon_pos/pools/0x882df4b0fb50a229c3b4124eb18c759911485bfb">Longinus Price on Quickswap</a></span></p>
 <p class="p2"><span class="s9">- AVE : <a href="https://ave.ai/token/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01-polygon?from=Home">Longinus Price Chart</a></span></p>
 <p class="p2"><span class="s9">- zapper : <a href="https://zapper.xyz/token/polygon/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01/LGNS/details?tab=overview">Origin LGNS (LGNS) on Polygon</a></span></p>
 <p class="p2"><span class="s9">- coinstats : <a href="https://coinstats.app/ko/coins/origin-lgns/">Origin LGNS 가격 및 시가총액 실시간 업데이트 및 과거 데이터</a></span></p>
