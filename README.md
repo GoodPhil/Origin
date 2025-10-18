@@ -26,8 +26,8 @@
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Scale information</b><b></b></span></h3>
 <p class="p2"><span class="s9">- polygonscan (폴리곤 스캔: LGNS 정보)) : <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">Token Longinus (LGNS) 주조량, 홀더, 점유율 정보</span></a></span></p>
-<p class="p2"><span class="s9">- polygonscan (폴리곤 스캔: LGNS 정보)) : <a href="https://polygonscan.com/tokencheck-tool">Token Longinus (LGNS) 주조량, 홀더, 점유율 정보</span></a></span></p>
-<p class="p2"><span class="s9">- Token Supply Checke (토큰 공급 검사기) : <a href="https://dexscreener.com/polygon">Token Supply Checke (토큰 공급 검사기)</span></a></span></p>
+<p class="p2"><span class="s9">- Token Supply Checke (토큰 공급 검사기) : <a href="https://polygonscan.com/tokencheck-tool">Token Supply Checke (토큰 공급 검사기</span></a></span></p>
+<p class="p2"><span class="s9">- Dexscreener (덱스 스크린) () : <a href="https://dexscreener.com/polygon">)덱스 스크린 폴리곤 체인 토큰 정보</span></a></span></p>
 <p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀</span></a></span></p>
 <p class="p2"><span class="s9">- coingecko (코인겐코 거래량) : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns/historical_data">LGNS Origin LGNS USD (거래량 기록 데이터)</a></span></p>
 <p class="p7"><span class="s1"></span><br></p>
@@ -59,13 +59,6 @@
 <p class="p2"><span class="s9">- forbes : <a href="https://www.forbes.com/">Forbes</a></span></p>
 <p class="p2"><span class="s9">- forbes digital-assets :<a href="https://www.forbes.com/digital-assets/crypto-prices/?page=142&amp;sh=553595112478">Cryptocurrency Prices, Market Cap and Charts | Forbes Digital Assets</a></span></p>
 <p class="p2"><span class="s9">- forbes Origin LGNS Price Today : <a href="https://www.forbes.com/digital-assets/assets/origin-lgns-lgns/">Origin LGNS (LGNS) Price Today</a></span></p>
-<p class="p6"><span class="s9"></span><br></p>
-<p class="p8"><span class="s1"><b>Polygonscan</b><b></b></span></p>
-<p class="p9"><span class="s9"><a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">https://polygonscan.com/token/<span class="s11"></span></a></span></p>
-<p class="p9"><span class="s9"><a href="https://polygonscan.com/tokencheck-tool">https://polygonscan.com/tokencheck-tool<span class="s11"></span></a></span></p>
-<p class="p9"><span class="s9"><a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns/historical_data?start=2025-07-13&amp;end=2025-08-12">https://www.coingecko.com/ko/origin-lgns/historical<span class="s11"></span></a></span></p>
-<p class="p9"><span class="s9"><a href="https://dexscreener.com/polygon/0x882df4b0fb50a229c3b4124eb18c759911485bfb">https://dexscreener.com/polygon<span class="s11"></span></a></span></p>
-<p class="p6"><span class="s9"></span><br></p>
 <p class="p6"><span class="s9"></span><br></p>
 <p class="p8"><span class="s1"><b>Manual</b><b></b></span></p>
 <p class="p9"><span class="s9"><a href="https://github.com/OriginBank/lgns-abi">https://github.com/OriginBank/lgns-abi<span class="s11"></span></a></span></p>
