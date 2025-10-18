@@ -29,7 +29,7 @@
 <p class="p2"><span class="s9">- Token Supply Checke : <a href="https://polygonscan.com/tokencheck-tool">토큰 공급 검사</span></a></span></p>
 <p class="p2"><span class="s9">- Dexscreener : <a href="https://dexscreener.com/polygon">덱스 스크린 폴리곤 체인 토큰 정보</span></a></span></p>
 <p class="p2"><span class="s9">- GeckoTerminal : <a href="https://www.geckoterminal.com/ko/polygon_pos/pools">가장 인기 있는 상위 Polygon POS 풀 토큰</span></a></span></p>
-<p class="p2"><span class="s9">- coingecko : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns/historical_data">코인겐코 LGNS Origin LGNS USD (거래량 기록 데이터)</a></span></p>
+<p class="p2"><span class="s9">- coingecko : <a href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/origin-lgns/historical_data">코인겐코 Origin LGNS USD (거래량 기록 데이터)</a></span></p>
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Audit (감사)</b><b></b></span></h3>
 <p class="p2"><span class="s9">- CertiK : <a href="https://skynet.certik.com/ko/projects/origin#code-security">서틱 스카이넷 프로젝트 인사이트</span></a></span></p>
