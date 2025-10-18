@@ -65,7 +65,6 @@
 <p class="p10"><span class="s1"><a href="https://github.com/OriginBank/lgns-abi/blob/main/abis/OlympusStakingv2.json">https://github.com/OriginBank/lgns-abi/blob/main/abis/OlympusStakingv2.json<span class="s12"></span></a></span></p>
 <p class="p10"><span class="s1"><a href="https://ethereum-smart-contract-interaction-tool.vercel.app/">https://ethereum-smart-contract-interaction-tool.vercel.app/<span class="s12"></span></a></span></p>
 <p class="p6"><span class="s9"></span><br></p>
-<p class="p6"><span class="s9"></span><br></p>
 <p class="p8"><span class="s1"><b>Chain</b><b></b></span></p>
 <p class="p9"><span class="s9"><a href="https://www.blockchain.com/explorer/assets/btc">Bitcoin - BTC Price, Live Chart, and News | Blockchain.com<span class="s11"></span></a></span></p>
 <p class="p9"><span class="s9"><a href="https://etherscan.io/address/0x3052cD6BF951449A984fe4B5a38B46AEF9455c8E#tokentxns">Bithumb 2 | Address: 0x3052cD6B...EF9455c8E | Etherscan<span class="s11"></span></a></span></p>
