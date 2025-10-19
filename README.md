@@ -11,19 +11,19 @@
 <p class="p2">- PolygonScan (Token Longinus LGNS) <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">Link</span></p>
 <p class="p2"></span><br></p>
 <p class="p2"><b>Telegram</b><b></b></span></p>
-<p class="p2">- 오리진 한국 커뮤니티 (11:00 AM 줌 교육(Dapp 사용방법) 중요) (Awake Korea Communityt) <a href="https://t.me/+i7ysEedPAuVmZjJl">Link</a></span></p>
+<p class="p2">- 오리진 한국 커뮤니티 (*** 중요 11:00 AM 줌 교육 Dapp 사용방법) (Awake Korea Communityt) <a href="https://t.me/+i7ysEedPAuVmZjJl">Link</a></span></p>
 <p class="p2"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>X</b><b></b></span></h3>
 <p class="p2">Origin Official X Account <a href="https://x.com/SaluteOrigin"><span class="s7">Link</span></p>
 <p class="p2">- 2023년 10월 30일 (오리진 출시를 준비하세요!) <a href="https://x.com/SaluteOrigin/status/1718888173244453181">Link</span></p>
-<p class="p2">- 2023년 11월 16일 (오리진은 LGNS 토큰을 기반으로 하는 DeFi 프라이버시 금융 3.0 업그레이드 프로토콜입니다…) <a href="https://x.com/SaluteOrigin/status/1724922219682242967">Link</span></p>
-<p class="p2">- 2023년 11월 20일 (오리진(Origin)은 오리진 리스크 계약 경제학의 이론적 기반과 혁신적인 통제 시스템을 기반으로…) <a href="https://x.com/SaluteOrigin/status/1726316443355304088">Link</span></p>
-<p class="p2">- 2023년 11월 28일 (경제 플라이휠 모델은 시장의 통제 불능 균형을 맞추거나 조정하기 위해 수요와 공급 관계를…) <a href="https://x.com/SaluteOrigin/status/1729505194268872716">Link</span></p>
-<p class="p2">- 2023년 12월 06일 (플로우 진입 단계에서는 채권 판매 전략을 통해 알고리즘 기반 비안정화폐 LGNS가 성공적으로…) <a href="https://x.com/SaluteOrigin/status/1732117082962264266">Link</span></p>
-<p class="p2">- 2023년 12월 18일 (다크웹 ORIGIN의 최신 발표에 따르면 "성전선교단 모집" 계획이 전 세계적으로 시작되며, 21개국과…) <a href="https://x.com/SaluteOrigin/status/1736676123986301263">Link</span></p>
-<p class="p2">- 2024년 02월 23일 (ORIGIN DeFi 3.0 프로토콜이 기술 배포 및 계약 검토를 완료하여 Polygon 네트워크에서 곧 출시될…) <a href="https://x.com/SaluteOrigin/status/1760955559581474907">Link</span></p>
-<p class="p2">- 2024년 03월 05일 (전 세계적으로 동시적으로 출시하며, 동시에 전 세계 여러 지역에서 사전 출시 시간을 발표합니다…) <a href="https://x.com/SaluteOrigin/status/1764958425757458591">Link</span></p>
-<p class="p2">- 2024년 03월 21일 (ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget Wallet의 첫 프로젝트 중…) <a href="https://x.com/SaluteOrigin/status/1770771929172935011">Link</span></p>
+<p class="p2">- 2023년 11월 16일 (오리진은 LGNS 토큰을 기반으로 하는 DeFi 프라이버시 금융 3.0 업그레이드…) <a href="https://x.com/SaluteOrigin/status/1724922219682242967">Link</span></p>
+<p class="p2">- 2023년 11월 20일 (오리진은 리스크 계약 경제학의 이론적 기반과 혁신적인 통제 시스템을 기반…) <a href="https://x.com/SaluteOrigin/status/1726316443355304088">Link</span></p>
+<p class="p2">- 2023년 11월 28일 (경제 플라이휠 모델은 시장의 통제 불능 균형을 맞추거나 조정하기 위해…) <a href="https://x.com/SaluteOrigin/status/1729505194268872716">Link</span></p>
+<p class="p2">- 2023년 12월 06일 (플로우 진입 단계에서는 채권 판매 전략을 통해 알고리즘 기반 비안정화폐…) <a href="https://x.com/SaluteOrigin/status/1732117082962264266">Link</span></p>
+<p class="p2">- 2023년 12월 18일 (ORIGIN의 최신 발표에 따르면 "성전선교단 모집" 계획이 전 세계적으로 시작…) <a href="https://x.com/SaluteOrigin/status/1736676123986301263">Link</span></p>
+<p class="p2">- 2024년 02월 23일 (ORIGIN DeFi 3.0 프로토콜이 기술 배포 및 계약 검토를 완료하여 Polygon…) <a href="https://x.com/SaluteOrigin/status/1760955559581474907">Link</span></p>
+<p class="p2">- 2024년 03월 05일 (전 세계적으로 동시 출시하며, 동시에 전 세계 여러 지역에서 사전 출시 시간…) <a href="https://x.com/SaluteOrigin/status/1764958425757458591">Link</span></p>
+<p class="p2">- 2024년 03월 21일 (ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget…) <a href="https://x.com/SaluteOrigin/status/1770771929172935011">Link</span></p>
 <p class="p2"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Scale information</b><b></b></span></h3>
 <p class="p2">- Polygonscan (폴리곤 스캔: Token Longinus (LGNS) 주조량, 홀더, 점유율 정보) <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">Link</span></p>
