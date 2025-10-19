@@ -69,9 +69,9 @@
 <p class="p2">- TradingView (전체 암호화폐 시가총액 - 지수 차트) <a href="https://kr.tradingview.com/symbols/TOTAL/?timeframe=60M">Link</span></p>
 <p class="p2">- TradingView (TOTAL 시즌 차트) <a href="https://kr.tradingview.com/symbols/TOTAL/seasonals/">Link</span></p>
 <p class="p2">- Kimpga (김치프리미엄 김프) <a href="https://kimpga.com/">Link</span></p>
-<p class="p2">- CoinMarketCap 암호화폐 시장 개요 (비트코인 ​​지배력, 알트코인 시즌, ETF 순 흐름, 실시간 시장 심리 등 최신 암호화폐 시장 동향…) <a href="https://coinmarketcap.com/charts/">Link</span></p>
+<p class="p2">- CoinMarketCap 암호화폐 시장 개요 (비트코인 ​​지배력, 알트코인 시즌, ETF 순 흐름, 실시간 시장 심리 등 …) <a href="https://coinmarketcap.com/charts/">Link</span></p>
 <p class="p2">- CoinMarketCap이 추적하는 암호화폐 (코인 및 토큰 수의 지속적인 증가와 현재 존재하는 암호화폐의 총 수…) <a href="https://coinmarketcap.com/charts/number-of-cryptocurrencies-tracked/">Link</span></p>
-<p class="p2">- ChainCatcher (>Web3 공격 사건 및 보안 사고) <a href="https://www.chaincatcher.com/ko/special/152">Link</span></p>
+<p class="p2">- ChainCatcher (Web3 공격 사건 및 보안 사고) <a href="https://www.chaincatcher.com/ko/special/152">Link</span></p>
 <p class="p2"></span><br></p>
 <p class="p2"><b>News</b><b></b></span></p>
 <p class="p2">TokenPost (2025 년 1분기 180만개 토큰 소멸 펌프펀 탓 급증) <a href="https://www.tokenpost.kr/news/cryptocurrency/244186">Link</span></p>
