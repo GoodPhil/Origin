@@ -1,28 +1,28 @@
 </head>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><strong>Origin Bookmarks </strong>(2025.10.15 Updating...)<strong></strong></span></h1>
 <p class="p2">&nbsp;</p>
-<p class="p2"><span class="s2">- Origin Official Home : <a href="https://originworld.org/"><span class="s3">오리진 공식 홈</span></a></span></p>
-<p class="p2"><span class="s2">- Origin Dapp : <a href="https://originworld.org/"><span class="s3">오리진 공식 앱</span></a></span></p>
-<p class="p2"><span class="s2">- Origin Dapp : <a href="https://originworld.org/"><span class="s3">오리진 공식 앱 - 저당권으로 바로가는 링크</span></a></span></p>
-<p class="p2"><span class="s2">- Medium : <a href="https://originworld.medium.com/"><span class="s3">미디움 [2012년에 출시한 온라인 출판 플랫폼]</span></a></span></p>
-<p class="p3"><span class="s2">- Story White Paper : <a href="https://origin-3.gitbook.io/origin-fearless-contract"><span class="s5">스토리 백서</span></a></span></p>
-<p class="p3"><span class="s2">- Economic White Paper : <a href="https://origin-3.gitbook.io/origin-eternal-protocol"><span class="s5">경제 백서</span></a></span></p>
-<p class="p3"><span class="s2">- Technical White Paper : <a href="https://origin-5.gitbook.io/anubis-free-reels"><span class="s5">기술 백서</span></a></span></p>
+<p class="p2">- 오리진 공식 홈 (Origin Official Home) : <a href="https://originworld.org/">Link</span></p>
+<p class="p2">- 오리진 공식 앱 (Origin Dapp) : <a href="https://originworld.org/"><span class="s3">Link</span></p>
+<p class="p2">- 오리진 공식 앱 - 저당권으로 바로가는 링크 (Origin Stake) : <a href="https://originworld.org/">Link</span></p>
+<p class="p2">- 미디움 [2012년에 출시한 온라인 출판 플랫폼] (Medium) : <a href="https://originworld.medium.com/">Link</span></p>
+<p class="p3">- 스토리 백서 (Story White Paper) : <a href="https://origin-3.gitbook.io/origin-fearless-contract">Link</span></p>
+<p class="p3">- 경제 백서 (Economic White Paper) : <a href="https://origin-3.gitbook.io/origin-eternal-protocol">Link</span></p>
+<p class="p3">- 기술 백서 (Technical White Paper) : <a href="https://origin-5.gitbook.io/anubis-free-reels">Link</span></p>
 <p class="p4"><span class="s1"></span><br></p>
 <p class="p5"><span class="s1"><b>Telegram</b><b></b></span></p>
-<p class="p2"><span class="s9">- Awake Korea Communityt : <a href="https://t.me/+i7ysEedPAuVmZjJl">오리진 한국 커뮤니티 (11:00 AM 줌 교육(Dapp 사용방법) 중요)</a></span></p>
+<p class="p2">- 오리진 한국 커뮤니티 (11:00 AM 줌 교육(Dapp 사용방법) 중요) (Awake Korea Communityt) : <a href="https://t.me/+i7ysEedPAuVmZjJl">Link</a></span></p>
 <p class="p6"><span class="s9"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>X</b><b></b></span></h3>
-<p class="p2"><span class="s6">Origin Official X Account : <a href="https://x.com/SaluteOrigin"><span class="s7">x.com/SaluteOrigin</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 10월 30일 : <a href="https://x.com/SaluteOrigin/status/1718888173244453181"><span class="s3">오리진 출시를 준비하세요!</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 11월 16일 : <a href="https://x.com/SaluteOrigin/status/1724922219682242967"><span class="s3">오리진은 LGNS 토큰을 기반으로 하는 DeFi 프라이버시 금융 3.0 업그레이드 프로토콜입니다…</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 11월 20일 : <a href="https://x.com/SaluteOrigin/status/1726316443355304088"><span class="s3">오리진(Origin)은 오리진 리스크 계약 경제학의 이론적 기반과 혁신적인 통제 시스템을 기반으로…</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 11월 28일 : <a href="https://x.com/SaluteOrigin/status/1729505194268872716"><span class="s3">경제 플라이휠 모델은 시장의 통제 불능 균형을 맞추거나 조정하기 위해 수요와 공급 관계를…</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 12월 06일 : <a href="https://x.com/SaluteOrigin/status/1732117082962264266"><span class="s3">플로우 진입 단계에서는 채권 판매 전략을 통해 알고리즘 기반 비안정화폐 LGNS가 성공적으로…</span></a></span></p>
-<p class="p2"><span class="s8">- 2023년 12월 18일 : <a href="https://x.com/SaluteOrigin/status/1736676123986301263"><span class="s3">다크웹 ORIGIN의 최신 발표에 따르면 "성전선교단 모집" 계획이 전 세계적으로 시작되며, 21개국과…</span></a></span></p>
-<p class="p2"><span class="s8">- 2024년 02월 23일 : <a href="https://x.com/SaluteOrigin/status/1760955559581474907"><span class="s3">ORIGIN DeFi 3.0 프로토콜이 기술 배포 및 계약 검토를 완료하여 Polygon 네트워크에서 곧 출시될…</span></a></span></p>
-<p class="p2"><span class="s8">- 2024년 03월 05일 : <a href="https://x.com/SaluteOrigin/status/1764958425757458591"><span class="s3">전 세계적으로 동시적으로 출시하며, 동시에 전 세계 여러 지역에서 사전 출시 시간을 발표합니다.…</span></a></span></p>
-<p class="p2"><span class="s8">- 2024년 03월 21일 : <a href="https://x.com/SaluteOrigin/status/1770771929172935011"><span class="s3">ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget Wallet의 첫 프로젝트 중…</span></a></span></p>
+<p class="p2"><span class="s6">Origin Official X Account : <a href="https://x.com/SaluteOrigin"><span class="s7">x.com/SaluteOrigin</span></p>
+<p class="p2">- 2023년 10월 30일 (오리진 출시를 준비하세요!) : <a href="https://x.com/SaluteOrigin/status/1718888173244453181">Link</span></p>
+<p class="p2">- 2023년 11월 16일 (오리진은 LGNS 토큰을 기반으로 하는 DeFi 프라이버시 금융 3.0 업그레이드 프로토콜입니다…) : <a href="https://x.com/SaluteOrigin/status/1724922219682242967">  Link</span></p>
+<p class="p2">- 2023년 11월 20일 (오리진(Origin)은 오리진 리스크 계약 경제학의 이론적 기반과 혁신적인 통제 시스템을 기반으로…) : <a href="https://x.com/SaluteOrigin/status/1726316443355304088">  Link</span></p>
+<p class="p2">- 2023년 11월 28일 (경제 플라이휠 모델은 시장의 통제 불능 균형을 맞추거나 조정하기 위해 수요와 공급 관계를…) : <a href="https://x.com/SaluteOrigin/status/1729505194268872716">  Link</span></p>
+<p class="p2">- 2023년 12월 06일 (플로우 진입 단계에서는 채권 판매 전략을 통해 알고리즘 기반 비안정화폐 LGNS가 성공적으로…) : <a href="https://x.com/SaluteOrigin/status/1732117082962264266">  Link</span></p>
+<p class="p2">- 2023년 12월 18일 (다크웹 ORIGIN의 최신 발표에 따르면 "성전선교단 모집" 계획이 전 세계적으로 시작되며, 21개국과…) : <a href="https://x.com/SaluteOrigin/status/1736676123986301263">  Link</span></p>
+<p class="p2">- 2024년 02월 23일 (ORIGIN DeFi 3.0 프로토콜이 기술 배포 및 계약 검토를 완료하여 Polygon 네트워크에서 곧 출시될…) : <a href="https://x.com/SaluteOrigin/status/1760955559581474907">  Link</span></p>
+<p class="p2">- 2024년 03월 05일 (전 세계적으로 동시적으로 출시하며, 동시에 전 세계 여러 지역에서 사전 출시 시간을 발표합니다…) : <a href="https://x.com/SaluteOrigin/status/1764958425757458591">  Link</span></p>
+<p class="p2">- 2024년 03월 21일 (ORIGIN 는 Bitget 과 지속적으로 광범위한 협업을 진행하고 있으며, Bitget Wallet의 첫 프로젝트 중…) : <a href="https://x.com/SaluteOrigin/status/1770771929172935011">  Link</span></p>
 <p class="p7"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Scale information</b><b></b></span></h3>
 <p class="p2"><span class="s9">- polygonscan : <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">폴리곤 스캔: Token Longinus (LGNS) 주조량, 홀더, 점유율 정보</span></a></span></p>
@@ -72,14 +72,14 @@
 <p class="p9"><span class="s9"><a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">ERC-20 Token | Address: 0xeB51D9A3...f804A0F01 | PolygonScan<span class="s11"></span></a></span></p>
 <p class="p9"><span class="s10"><a href="https://depinscan.io/ko/map-view">지도<span class="s13"> </span><span class="s11">보기</span><span class="s13"> - DePIN Scan</span></a></span></p>
 <p class="p11"><span class="s1"><b></b></span><br></p>
-<p class="p5"><span class="s1"><b>Topic&amp;Issue</b><b></b></span></p>
-<p class="p2"><span class="s9"><a href="https://companiesmarketcap.com/assets-by-market-cap/#google_vignette">Assets ranked by Market Cap - CompaniesMarketCap.com</a></span></p>
-<p class="p2"><span class="s10"><a href="https://kr.tradingview.com/symbols/TOTAL/?timeframe=60M">전체<span class="s14"> </span><span class="s9">암호화폐</span><span class="s14"> </span><span class="s9">시가총액</span><span class="s14"> — </span><span class="s9">지수</span><span class="s14"> </span><span class="s9">차트</span><span class="s14"> — TradingView</span></a></span></p>
-<p class="p2"><span class="s9"><a href="https://kr.tradingview.com/symbols/TOTAL/seasonals/">TOTAL <span class="s10">시즌</span> <span class="s10">차트</span> — TradingView</a></span></p>
-<p class="p2"><span class="s10"><a href="https://kimpga.com/">김치프리미엄<span class="s14"> </span><span class="s9">김프</span><span class="s14">(kimchi premium) - </span><span class="s9">김프가</span><span class="s14"> - kimpga.com</span></a></span></p>
-<p class="p2"><span class="s9"><a href="https://coinmarketcap.com/charts/">Live Cryptocurrency Charts &amp; Market Data | CoinMarketCap</a></span></p>
-<p class="p2"><span class="s9"><a href="https://coinmarketcap.com/charts/number-of-cryptocurrencies-tracked/">Cryptocurrencies Tracked by CoinMarketCap</a></span></p>
-<p class="p9"><span class="s9"><a href="https://www.chaincatcher.com/ko/special/152">Web3 <span class="s15">공격</span><span class="s11"> </span><span class="s15">사건</span><span class="s11"> </span><span class="s15">및</span><span class="s11"> </span><span class="s15">보안</span><span class="s11"> </span><span class="s15">사고</span><span class="s11"> | </span><span class="s15">특집</span><span class="s11"> - ChainCatcher</span></a></span></p>
+<p class="p5"><span class="s1"><b>Topic & Issue</b><b></b></span></p>
+<p class="p2">— CompaniesMarketCap : <span class="s9"><a href="https://companiesmarketcap.com/assets-by-market-cap/#google_vignette">시가총액 순으로 순위가 매겨진 자산</a></span></p>
+<p class="p2">— TradingView : <span class="s10"><a href="https://kr.tradingview.com/symbols/TOTAL/?timeframe=60M">전체 암호화폐 시가총액 - 지수 차트</span></a></span></p>
+<p class="p2">— TradingView : <span class="s9"><a href="https://kr.tradingview.com/symbols/TOTAL/seasonals/">TOTAL 시즌 차트</a></span></p>
+<p class="p2">— kimpga : <span class="s10"><a href="https://kimpga.com/">김치프리미엄 김프</span></a></span></p>
+<p class="p2">— CoinMarketCap 암호화폐 시장 개요 : <span class="s9"><a href="https://coinmarketcap.com/charts/">비트코인 ​​지배력, 알트코인 시즌, ETF 순 흐름, 실시간 시장 심리 등 최신 암호화폐 시장 동향…</a></span></p>
+<p class="p2">— CoinMarketCap이 추적하는 암호화폐 : <span class="s9"><a href="https://coinmarketcap.com/charts/number-of-cryptocurrencies-tracked/">코인 및 토큰 수의 지속적인 증가와 현재 존재하는 암호화폐의 총 수…</a></span></p>
+<p class="p9">— ChainCatcher : <span class="s9"><a href="https://www.chaincatcher.com/ko/special/152">Web3 공격 사건 및 보안 사고 특집</span></a></span></p>
 <p class="p4"><span class="s1"></span><br></p>
 <p class="p5"><span class="s1"><b>News</b><b></b></span></p>
 <p class="p2"><span class="s9"><a href="https://www.tokenpost.kr/news/cryptocurrency/244186">2025<span class="s10">년</span> 1<span class="s10">분기</span> 180<span class="s10">만개</span> <span class="s10">토큰</span> <span class="s10">소멸</span>, <span class="s10">펌프펀</span> <span class="s10">탓</span> <span class="s10">급증</span> - TokenPost</a></span></p>
@@ -89,4 +89,3 @@
 <p class="p6"><span class="s9"></span><br></p>
 <p class="p6"><span class="s9"></span><br></p>
 </body>
-</html>
