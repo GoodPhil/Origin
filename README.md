@@ -1,5 +1,5 @@
 </head>
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><strong>Origin Bookmarks </strong>(2025.10.15 Updating...)<strong></strong></span></h1>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><strong>Origin Bookmarks </strong>(2025.10.27 Updating...)<strong></strong></span></h1>
 <p class="p2">&nbsp;</p>
 <p class="p2">- 오리진 공식 홈 (Origin Official Home) <a href="https://originworld.org/">Link</span></p>
 <p class="p2">- 오리진 공식 앱 (Origin Dapp) <a href="https://originworld.org/">Link</span></p>
@@ -78,4 +78,8 @@
 <p class="p2">BeinCrypto Korea (2025 년 1분기 죽은 암호화폐 180만개 넘었다) <a href="https://kr.beincrypto.com/base-news/108942/">>Link</span></p>
 <p class="p2">블록미디어 (CEX 냐 DEX 냐… 디지털 자산 지배할 거래소의 왕은?) <a href="https://www.blockmedia.co.kr/archives/921759#google_vignette">Link</span></p>
 <p class="p2">암호화폐 세금 규정 2027년 본격 시행 기관 유입 가속화 기대 <a href="https://news.zum.com/articles/99398575/%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90-%EC%84%B8%EA%B8%88-%EA%B7%9C%EC%A0%95-carf-2027%EB%85%84-%EB%B3%B8%EA%B2%A9-%EC%8B%9C%ED%96%89-%EA%B8%B0%EA%B4%80-%EC%9C%A0%EC%9E%85-%EA%B0%80%EC%86%8D%ED%99%94-%EA%B8%B0%EB%8C%80">Link</span><br></p>
+<p class="p2"></span><br></p>
+<p class="p2"></span><br></p>
+<p class="p2"><b>*** Defi Comparison ***</b><b></b></span></p>
+<p class="p2">Dexscreener Watchlist (덱스 스크린에서 Token 비교) <a href="https://dexscreener.com/watchlist/6iRoDDvcilBZKz5pRHbH">Link</span></p>
 </body>
