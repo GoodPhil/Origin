@@ -1,17 +1,23 @@
 </head>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><strong>Origin Bookmarks </strong>(2025.10.27 Updating...)<strong></strong></span></h1>
 <p class="p2">&nbsp;</p>
+<p class="p2">-  오리진 공식 앱 - 저당권으로 바로가는 링크 복사 (오른쪽 버튼 <img width="38" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사!!!)</span></p>
+
+```
+origindefi.io/#/stake
+```
+#
+
 <p class="p2">- 오리진 공식 홈 (Origin Official Home) <a href="https://originworld.org/">Link</span></p>
 <p class="p2">- 오리진 공식 앱 (Origin Dapp) <a href="https://originworld.org/">Link</span></p>
-<p class="p2">- 오리진 공식 앱 - 저당권으로 바로가는 링크 (Origin Stake) <a href="https://origindefi.io/#/stake">origindefi.io/#/stake</span></p>
-<p class="p2">- 미디움 [2012년에 출시한 온라인 출판 플랫폼] (Medium) <a href="https://originworld.medium.com/">Link</span></p>
+<p class="p2">- 미디움 문서 (Medium) <a href="https://originworld.medium.com/">Link</span></p>
 <p class="p2">- 스토리 백서 (Story White Paper) <a href="https://origin-3.gitbook.io/origin-fearless-contract">Link</span></p>
 <p class="p2">- 경제 백서 (Economic White Paper) <a href="https://origin-3.gitbook.io/origin-eternal-protocol">Link</span></p>
 <p class="p2">- 기술 백서 (Technical White Paper) <a href="https://origin-5.gitbook.io/anubis-free-reels">Link</span></p>
 <p class="p2">- PolygonScan (Token Longinus LGNS) <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">Link</span></p>
 <p class="p2"></span><br></p>
 <p class="p2"><b>Telegram</b><b></b></span></p>
-<p class="p2">- 오리진 한국 커뮤니티 (*** 중요 11:00 AM 줌 교육 Dapp 사용방법) (Awake Korea Communityt) <a href="https://t.me/+i7ysEedPAuVmZjJl">Link</a></span></p>
+<p class="p2">- 오리진 한국 커뮤니티 (Awake Korea Communityt) <a href="https://t.me/+i7ysEedPAuVmZjJl">Link</a></span></p>
 <p class="p2"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>X</b><b></b></span></h3>
 <p class="p2">Origin Official X Account <a href="https://x.com/SaluteOrigin"><span class="s7">Link</span></p>
