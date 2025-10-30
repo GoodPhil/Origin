@@ -1,20 +1,13 @@
 </head>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><strong>Origin Bookmarks </strong>(2025.10.27 Updating...)<strong></strong></span></h1>
 <p class="p2">&nbsp;</p>
-<p class="p2">-  오리진 공식 앱 - 저당권으로 바로가는 링크 복사 (오른쪽 버튼 <img width="38" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사!!!)</span></p>
-
-```
-origindefi.io/#/stake
-```
-#
-
 <p class="p2">- 오리진 공식 홈 (Origin Official Home) <a href="https://originworld.org/">Link</span></p>
 <p class="p2">- 오리진 공식 앱 (Origin Dapp) <a href="https://originworld.org/">Link</span></p>
 <p class="p2">- 미디움 문서 (Medium) <a href="https://originworld.medium.com/">Link</span></p>
 <p class="p2">- 스토리 백서 (Story White Paper) <a href="https://origin-3.gitbook.io/origin-fearless-contract">Link</span></p>
 <p class="p2">- 경제 백서 (Economic White Paper) <a href="https://origin-3.gitbook.io/origin-eternal-protocol">Link</span></p>
 <p class="p2">- 기술 백서 (Technical White Paper) <a href="https://origin-5.gitbook.io/anubis-free-reels">Link</span></p>
-<p class="p2">- PolygonScan (Token Longinus LGNS) <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">Link</span></p>
+<p class="p2">- 폴리곤 스캔 (PolygonScan - Token Longinus LGNS) <a href="https://polygonscan.com/token/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01#balances">Link</span></p>
 <p class="p2"></span><br></p>
 <p class="p2"><b>Telegram</b><b></b></span></p>
 <p class="p2">- 오리진 한국 커뮤니티 (Awake Korea Communityt) <a href="https://t.me/+i7ysEedPAuVmZjJl">Link</a></span></p>
@@ -88,4 +81,10 @@ origindefi.io/#/stake
 <p class="p2"></span><br></p>
 <p class="p2"><b>*** Defi Comparison ***</b><b></b></span></p>
 <p class="p2">Dexscreener Watchlist (덱스 스크린에서 Token 비교) <a href="https://dexscreener.com/watchlist/6iRoDDvcilBZKz5pRHbH">Link</span></p>
+<p class="p2">*** 오리진 공식 앱 - 저당권으로 바로가는 링크 복사 (오른쪽 버튼 <img width="38" alt="Copy" src="https://github.com/user-attachments/assets/3e2d6b1b-e0fd-4c5f-a8b7-644a13e38e67"/> 모양과 같은 아이콘 버튼 클릭하여 복사!!!)</span></p>
+  
+```
+origindefi.io/#/stake
+```
+#
 </body>
