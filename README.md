@@ -3,7 +3,7 @@
 <p class="p2">&nbsp;</p>
 <p class="p2">- 오리진 공식 홈 (Origin Official Home) <a href="https://originworld.org/">Link</span></p>
 <p class="p2">- 오리진 공식 앱 (Origin Dapp) <a href="https://originworld.org/">Link</span></p>
-<p class="p2">- 오리진 공식 앱 - 저당권으로 바로가는 링크 (Origin Stake) <a href="https://originworld.org/">Link</span></p>
+<p class="p2">- 오리진 공식 앱 - 저당권으로 바로가는 링크 (Origin Stake) <a href="https://origindefi.io/#/stake">origindefi.io/#/stake</span></p>
 <p class="p2">- 미디움 [2012년에 출시한 온라인 출판 플랫폼] (Medium) <a href="https://originworld.medium.com/">Link</span></p>
 <p class="p2">- 스토리 백서 (Story White Paper) <a href="https://origin-3.gitbook.io/origin-fearless-contract">Link</span></p>
 <p class="p2">- 경제 백서 (Economic White Paper) <a href="https://origin-3.gitbook.io/origin-eternal-protocol">Link</span></p>
