@@ -54,4 +54,3 @@
 ![smart-contract_008](https://github.com/user-attachments/assets/1938688a-59c7-477d-b797-3a57477d2501)
 ##
 ### 10. 토큰 포켓, 메타마스크 등 개인 지갑에 LGNS 토큰으로 해제된 수량 확인.
-<img width="1826" height="2079" alt="image" src="https://github.com/user-attachments/assets/d04cf203-256d-4b24-912c-7c163053e709" />
